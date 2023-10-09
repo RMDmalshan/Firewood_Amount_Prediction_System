@@ -6,7 +6,7 @@ import pickle
 app = Flask(__name__)
 
 def prediction(lst):
-   filename = 'model/FIREWOOD_PREDICTION.pickle'
+   filename = 'model/PREDICTION_FIREWOOD_NEW_UPDATE.pickle'
    with open(filename, 'rb') as file:
        model = pickle.load(file)
    pred_value = model.predict([lst])
