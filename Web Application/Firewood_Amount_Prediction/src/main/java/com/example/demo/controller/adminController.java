@@ -12,8 +12,7 @@ import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 
-import com.example.demo.model.Admin;
-import com.example.demo.model.Customer;
+
 import com.example.demo.model.Product;
 import com.example.demo.model.User;
 import com.example.demo.service.adminService;
@@ -97,7 +96,7 @@ public class adminController {
             // Log at TRACE level for very detailed debugging information
             logger.trace("Fetching all customers");
             
-            Customer customer=new Customer();
+            User customer=new User();
     		model.addAttribute("customer", customer);
             
              // Log at INFO level to indicate successful fetch
@@ -203,7 +202,7 @@ public class adminController {
 	            logger.debug("Creating a new admin: Debug information for admin creation");
 
 	            // Create a new Admin object and add it to the model
-	            Admin admin = new Admin();
+	            User admin = new User();
 	            model.addAttribute("admin", admin);
 
 	            // Log at INFO level to indicate successful creation
