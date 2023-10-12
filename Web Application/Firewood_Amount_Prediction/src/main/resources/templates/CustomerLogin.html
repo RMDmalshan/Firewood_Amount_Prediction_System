@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Login & Registration Form</title>
+    <link rel="stylesheet" th:href="@{../assets/css/CustomerLoginStyle.css}" />
+
+  </head>
+  <body>
+    <div class="container">
+      <input type="checkbox" id="check" />
+      <div class="login form">
+        <header>Login</header>
+        <form action="userLogin" method="post">
+			<th:block th:if="${param.error}">
+							<h5 class="fw-bold text-danger text-center" id="errorMessage">Incorrect email or password</h6>
+						</th:block>
+						<th:block th:if="${param.logout}">
+							<h5 class="fw-bold text-danger text-center" id="logoutMessage"> 
+								logged out.</h6>
+						</th:block>
+						<br />
+          <input type="text" name="username" placeholder="Enter your Email" />
+          <input type="password" name="password" placeholder="Enter your password" />
+
+          <button type="submit" style="padding: 10px; background-color: aquamarine; border: none; align-items: center;" >Login</button>
+        </form>
+        <div class="signup">
+          <span class="signup"
+            >Don't have an account?
+            <label for="check">Signup</label>
+          </span>
+        </div>
+      </div>
+      <div class="registration form">
+        <header>Signup</header>
+        <form action="saveUser" method="post">
+			<th:block th:if="${session.msg}">
+							<p class="text-center fw-bold text-success" id="successMessage">
+								[[${session.msg}]]
+							</p>
+						</th:block>
+						
+						<th:block th:if="${session.msgError}">
+							<p class="text-center fw-bold text-danger" id="existMessage">
+								[[${session.msgError}]]
+							</p>
+						</th:block>
+          <input name="name" type="text" placeholder="Enter Customer Name" />
+          <input name="nic" type="text" placeholder="Enter your NIC" />
+          <input name="address" type="text" placeholder="Enter your Address" />
+          <input name="number" type="text" placeholder="Enter your Number" />
+          <input name="email" type="text" placeholder="Enter your email" />
+          <input name="password" type="password" placeholder="Enetr your password" />
+          <button style="padding: 10px; background-color: aquamarine; border: none; align-items: center;" type="submit">SignUp</button>
+        </form>
+        <div class="signup">
+          <span class="signup"
+            >Already have an account?
+            <label for="check">Login</label>
+          </span>
+        </div>
+      </div>
+    </div>
+    <script th:inline="javascript">
+		setTimeout(function () {
+			// Hide the error message (if present)
+			var errorMessage = document.getElementById('errorMessage');
+			if (errorMessage) {
+				errorMessage.style.display = 'none';
+			}
+
+			// Hide the logout message (if present)
+			var logoutMessage = document.getElementById('logoutMessage');
+			if (logoutMessage) {
+				logoutMessage.style.display = 'none';
+			}
+		}, 5000); // 5000 milliseconds = 5 seconds
+		
+		    setTimeout(function () {
+        // Hide the error message (if present)
+        var errorMessage = document.getElementById('successMessage');
+        if (errorMessage) {
+            errorMessage.style.display = 'none';
+        }
+
+        // Hide the logout message (if present)
+        var logoutMessage = document.getElementById('existMessage');
+        if (logoutMessage) {
+            logoutMessage.style.display = 'none';
+        }
+    }, 5000);
+	</script>
+  </body>
+</html>
