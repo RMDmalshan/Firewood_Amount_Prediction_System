@@ -1,627 +1,380 @@
-[2023-10-12 17:16:57,838] http-nio-8080-exec-2 com.example.demo.controller.adminController 401 ERROR  - Fetching all products for display
-[2023-10-12 17:16:57,840] http-nio-8080-exec-2 com.example.demo.controller.adminController 404 WARN   - Fetching all products: This is a warning message
-[2023-10-12 17:16:57,840] http-nio-8080-exec-2 com.example.demo.controller.adminController 407 INFO   - Fetching all products: Product fetch started
-[2023-10-12 17:16:57,840] http-nio-8080-exec-2 com.example.demo.controller.adminController 410 DEBUG  - Fetching all products: Debug information for product fetch
-[2023-10-12 17:16:57,849] http-nio-8080-exec-2 com.example.demo.controller.adminController 416 INFO   - Successfully fetched all products
-[2023-10-12 17:17:00,639] http-nio-8080-exec-4 com.example.demo.controller.adminController 160 ERROR  - Fetching all admin data for display
-[2023-10-12 17:17:00,639] http-nio-8080-exec-4 com.example.demo.controller.adminController 163 WARN   - Fetching all admin data: This is a warning message
-[2023-10-12 17:17:00,640] http-nio-8080-exec-4 com.example.demo.controller.adminController 166 INFO   - Fetching all admin data: This is an info message
-[2023-10-12 17:17:00,640] http-nio-8080-exec-4 com.example.demo.controller.adminController 169 DEBUG  - Fetching all admin data: This is a debug message
-[2023-10-12 17:17:00,643] http-nio-8080-exec-4 com.example.demo.controller.adminController 175 INFO   - Successfully fetched all admin data
-[2023-10-12 17:19:16,521] http-nio-8080-exec-1 com.example.demo.controller.adminController 49 ERROR  - Fetching all customers for display
-[2023-10-12 17:19:16,522] http-nio-8080-exec-1 com.example.demo.controller.adminController 52 WARN   - Fetching all customers
-[2023-10-12 17:19:16,522] http-nio-8080-exec-1 com.example.demo.controller.adminController 55 INFO   - Fetching all customers
-[2023-10-12 17:19:16,522] http-nio-8080-exec-1 com.example.demo.controller.adminController 58 DEBUG  - Fetching all customers
-[2023-10-12 17:19:16,568] http-nio-8080-exec-1 com.example.demo.controller.adminController 67 INFO   - Successfully fetched all customers
-[2023-10-12 17:19:18,031] http-nio-8080-exec-4 com.example.demo.controller.adminController 86 ERROR  - Fetching all customers for display
-[2023-10-12 17:19:18,031] http-nio-8080-exec-4 com.example.demo.controller.adminController 89 WARN   - Fetching all customers
-[2023-10-12 17:19:18,031] http-nio-8080-exec-4 com.example.demo.controller.adminController 92 INFO   - Fetching all customers
-[2023-10-12 17:19:18,031] http-nio-8080-exec-4 com.example.demo.controller.adminController 95 DEBUG  - Fetching all customers
-[2023-10-12 17:19:18,031] http-nio-8080-exec-4 com.example.demo.controller.adminController 104 INFO   - Successfully fetched all customers
-[2023-10-12 17:19:22,116] http-nio-8080-exec-8 com.example.demo.controller.adminController 126 ERROR  - An error occurred while saving customer
-[2023-10-12 17:19:22,116] http-nio-8080-exec-8 com.example.demo.controller.adminController 129 WARN   - A warning message for customer
-[2023-10-12 17:19:22,116] http-nio-8080-exec-8 com.example.demo.controller.adminController 132 INFO   - Saving customer
-[2023-10-12 17:19:22,200] http-nio-8080-exec-8 com.example.demo.controller.adminController 139 DEBUG  - Debug message for customer
-[2023-10-12 17:19:22,221] http-nio-8080-exec-6 com.example.demo.controller.adminController 49 ERROR  - Fetching all customers for display
-[2023-10-12 17:19:22,221] http-nio-8080-exec-6 com.example.demo.controller.adminController 52 WARN   - Fetching all customers
-[2023-10-12 17:19:22,221] http-nio-8080-exec-6 com.example.demo.controller.adminController 55 INFO   - Fetching all customers
-[2023-10-12 17:19:22,221] http-nio-8080-exec-6 com.example.demo.controller.adminController 58 DEBUG  - Fetching all customers
-[2023-10-12 17:19:22,225] http-nio-8080-exec-6 com.example.demo.controller.adminController 67 INFO   - Successfully fetched all customers
-[2023-10-12 17:19:23,918] http-nio-8080-exec-6 com.example.demo.controller.adminController 160 ERROR  - Fetching all admin data for display
-[2023-10-12 17:19:23,919] http-nio-8080-exec-6 com.example.demo.controller.adminController 163 WARN   - Fetching all admin data: This is a warning message
-[2023-10-12 17:19:23,919] http-nio-8080-exec-6 com.example.demo.controller.adminController 166 INFO   - Fetching all admin data: This is an info message
-[2023-10-12 17:19:23,919] http-nio-8080-exec-6 com.example.demo.controller.adminController 169 DEBUG  - Fetching all admin data: This is a debug message
-[2023-10-12 17:19:23,922] http-nio-8080-exec-6 com.example.demo.controller.adminController 175 INFO   - Successfully fetched all admin data
-[2023-10-12 17:19:26,719] http-nio-8080-exec-5 com.example.demo.controller.adminController 49 ERROR  - Fetching all customers for display
-[2023-10-12 17:19:26,720] http-nio-8080-exec-5 com.example.demo.controller.adminController 52 WARN   - Fetching all customers
-[2023-10-12 17:19:26,720] http-nio-8080-exec-5 com.example.demo.controller.adminController 55 INFO   - Fetching all customers
-[2023-10-12 17:19:26,720] http-nio-8080-exec-5 com.example.demo.controller.adminController 58 DEBUG  - Fetching all customers
-[2023-10-12 17:19:26,723] http-nio-8080-exec-5 com.example.demo.controller.adminController 67 INFO   - Successfully fetched all customers
-[2023-10-12 17:19:27,991] http-nio-8080-exec-2 com.example.demo.controller.adminController 86 ERROR  - Fetching all customers for display
-[2023-10-12 17:19:27,991] http-nio-8080-exec-2 com.example.demo.controller.adminController 89 WARN   - Fetching all customers
-[2023-10-12 17:19:27,991] http-nio-8080-exec-2 com.example.demo.controller.adminController 92 INFO   - Fetching all customers
-[2023-10-12 17:19:27,992] http-nio-8080-exec-2 com.example.demo.controller.adminController 95 DEBUG  - Fetching all customers
-[2023-10-12 17:19:27,992] http-nio-8080-exec-2 com.example.demo.controller.adminController 104 INFO   - Successfully fetched all customers
-[2023-10-12 17:19:31,928] http-nio-8080-exec-2 com.example.demo.controller.adminController 126 ERROR  - An error occurred while saving customer
-[2023-10-12 17:19:31,929] http-nio-8080-exec-2 com.example.demo.controller.adminController 129 WARN   - A warning message for customer
-[2023-10-12 17:19:31,929] http-nio-8080-exec-2 com.example.demo.controller.adminController 132 INFO   - Saving customer
-[2023-10-12 17:19:32,005] http-nio-8080-exec-2 com.example.demo.controller.adminController 139 DEBUG  - Debug message for customer
-[2023-10-12 17:19:32,024] http-nio-8080-exec-3 com.example.demo.controller.adminController 49 ERROR  - Fetching all customers for display
-[2023-10-12 17:19:32,025] http-nio-8080-exec-3 com.example.demo.controller.adminController 52 WARN   - Fetching all customers
-[2023-10-12 17:19:32,025] http-nio-8080-exec-3 com.example.demo.controller.adminController 55 INFO   - Fetching all customers
-[2023-10-12 17:19:32,025] http-nio-8080-exec-3 com.example.demo.controller.adminController 58 DEBUG  - Fetching all customers
-[2023-10-12 17:19:32,027] http-nio-8080-exec-3 com.example.demo.controller.adminController 67 INFO   - Successfully fetched all customers
-[2023-10-12 17:19:33,590] http-nio-8080-exec-10 com.example.demo.controller.adminController 160 ERROR  - Fetching all admin data for display
-[2023-10-12 17:19:33,590] http-nio-8080-exec-10 com.example.demo.controller.adminController 163 WARN   - Fetching all admin data: This is a warning message
-[2023-10-12 17:19:33,590] http-nio-8080-exec-10 com.example.demo.controller.adminController 166 INFO   - Fetching all admin data: This is an info message
-[2023-10-12 17:19:33,591] http-nio-8080-exec-10 com.example.demo.controller.adminController 169 DEBUG  - Fetching all admin data: This is a debug message
-[2023-10-12 17:19:33,594] http-nio-8080-exec-10 com.example.demo.controller.adminController 175 INFO   - Successfully fetched all admin data
-[2023-10-12 17:19:36,334] http-nio-8080-exec-10 com.example.demo.controller.adminController 194 ERROR  - Creating a new admin: An error occurred during admin creation
-[2023-10-12 17:19:36,334] http-nio-8080-exec-10 com.example.demo.controller.adminController 197 WARN   - Creating a new admin: This is a warning message
-[2023-10-12 17:19:36,334] http-nio-8080-exec-10 com.example.demo.controller.adminController 200 INFO   - Creating a new admin: Admin creation started
-[2023-10-12 17:19:36,334] http-nio-8080-exec-10 com.example.demo.controller.adminController 203 DEBUG  - Creating a new admin: Debug information for admin creation
-[2023-10-12 17:19:36,335] http-nio-8080-exec-10 com.example.demo.controller.adminController 210 INFO   - Creating a new admin: Admin creation completed successfully
-[2023-10-12 17:19:41,377] http-nio-8080-exec-8 com.example.demo.controller.adminController 230 ERROR  - Saving admin: An error occurred during admin save
-[2023-10-12 17:19:41,378] http-nio-8080-exec-8 com.example.demo.controller.adminController 233 WARN   - Saving admin: This is a warning message
-[2023-10-12 17:19:41,378] http-nio-8080-exec-8 com.example.demo.controller.adminController 236 INFO   - Saving admin: Admin save started
-[2023-10-12 17:19:41,378] http-nio-8080-exec-8 com.example.demo.controller.adminController 239 DEBUG  - Saving admin: Debug information for admin save
-[2023-10-12 17:19:41,454] http-nio-8080-exec-8 com.example.demo.controller.adminController 249 INFO   - Saving admin: Admin saved successfully
-[2023-10-12 17:19:41,472] http-nio-8080-exec-10 com.example.demo.controller.adminController 160 ERROR  - Fetching all admin data for display
-[2023-10-12 17:19:41,472] http-nio-8080-exec-10 com.example.demo.controller.adminController 163 WARN   - Fetching all admin data: This is a warning message
-[2023-10-12 17:19:41,472] http-nio-8080-exec-10 com.example.demo.controller.adminController 166 INFO   - Fetching all admin data: This is an info message
-[2023-10-12 17:19:41,472] http-nio-8080-exec-10 com.example.demo.controller.adminController 169 DEBUG  - Fetching all admin data: This is a debug message
-[2023-10-12 17:19:41,476] http-nio-8080-exec-10 com.example.demo.controller.adminController 175 INFO   - Successfully fetched all admin data
-[2023-10-12 17:33:25,716] http-nio-8080-exec-10 com.example.demo.controller.adminController 400 ERROR  - Fetching all products for display
-[2023-10-12 17:33:25,718] http-nio-8080-exec-10 com.example.demo.controller.adminController 403 WARN   - Fetching all products: This is a warning message
-[2023-10-12 17:33:25,718] http-nio-8080-exec-10 com.example.demo.controller.adminController 406 INFO   - Fetching all products: Product fetch started
-[2023-10-12 17:33:25,718] http-nio-8080-exec-10 com.example.demo.controller.adminController 409 DEBUG  - Fetching all products: Debug information for product fetch
-[2023-10-12 17:33:25,743] http-nio-8080-exec-10 com.example.demo.controller.adminController 415 INFO   - Successfully fetched all products
-[2023-10-12 17:33:26,144] http-nio-8080-exec-2 com.example.demo.controller.adminController 400 ERROR  - Fetching all products for display
-[2023-10-12 17:33:26,144] http-nio-8080-exec-2 com.example.demo.controller.adminController 403 WARN   - Fetching all products: This is a warning message
-[2023-10-12 17:33:26,145] http-nio-8080-exec-2 com.example.demo.controller.adminController 406 INFO   - Fetching all products: Product fetch started
-[2023-10-12 17:33:26,145] http-nio-8080-exec-2 com.example.demo.controller.adminController 409 DEBUG  - Fetching all products: Debug information for product fetch
-[2023-10-12 17:33:26,150] http-nio-8080-exec-2 com.example.demo.controller.adminController 415 INFO   - Successfully fetched all products
-[2023-10-12 17:33:52,787] http-nio-8080-exec-4 com.example.demo.controller.adminController 434 ERROR  - Creating a new product: An error occurred during product creation
-[2023-10-12 17:33:52,789] http-nio-8080-exec-4 com.example.demo.controller.adminController 437 WARN   - Creating a new product: This is a warning message
-[2023-10-12 17:33:52,790] http-nio-8080-exec-4 com.example.demo.controller.adminController 440 INFO   - Creating a new product: Product creation started
-[2023-10-12 17:33:52,791] http-nio-8080-exec-4 com.example.demo.controller.adminController 443 DEBUG  - Creating a new product: Debug information for product creation
-[2023-10-12 17:33:52,791] http-nio-8080-exec-4 com.example.demo.controller.adminController 450 INFO   - Creating a new product: Product creation completed successfully
-[2023-10-12 17:33:53,041] http-nio-8080-exec-4 com.example.demo.controller.adminController 434 ERROR  - Creating a new product: An error occurred during product creation
-[2023-10-12 17:33:53,045] http-nio-8080-exec-4 com.example.demo.controller.adminController 437 WARN   - Creating a new product: This is a warning message
-[2023-10-12 17:33:53,046] http-nio-8080-exec-4 com.example.demo.controller.adminController 440 INFO   - Creating a new product: Product creation started
-[2023-10-12 17:33:53,046] http-nio-8080-exec-4 com.example.demo.controller.adminController 443 DEBUG  - Creating a new product: Debug information for product creation
-[2023-10-12 17:33:53,046] http-nio-8080-exec-4 com.example.demo.controller.adminController 450 INFO   - Creating a new product: Product creation completed successfully
-[2023-10-12 17:34:00,504] http-nio-8080-exec-5 com.example.demo.controller.adminController 468 ERROR  - Saving product: An error occurred during product save
-[2023-10-12 17:34:00,505] http-nio-8080-exec-5 com.example.demo.controller.adminController 471 WARN   - Saving product: This is a warning message
-[2023-10-12 17:34:00,505] http-nio-8080-exec-5 com.example.demo.controller.adminController 474 INFO   - Saving product: Product save started
-[2023-10-12 17:34:00,505] http-nio-8080-exec-5 com.example.demo.controller.adminController 477 DEBUG  - Saving product: Debug information for product save
-[2023-10-12 17:34:00,518] http-nio-8080-exec-5 com.example.demo.controller.adminController 483 INFO   - Saving product: Product saved successfully
-[2023-10-12 17:34:00,539] http-nio-8080-exec-4 com.example.demo.controller.adminController 400 ERROR  - Fetching all products for display
-[2023-10-12 17:34:00,539] http-nio-8080-exec-4 com.example.demo.controller.adminController 403 WARN   - Fetching all products: This is a warning message
-[2023-10-12 17:34:00,540] http-nio-8080-exec-4 com.example.demo.controller.adminController 406 INFO   - Fetching all products: Product fetch started
-[2023-10-12 17:34:00,540] http-nio-8080-exec-4 com.example.demo.controller.adminController 409 DEBUG  - Fetching all products: Debug information for product fetch
-[2023-10-12 17:34:00,545] http-nio-8080-exec-4 com.example.demo.controller.adminController 415 INFO   - Successfully fetched all products
-[2023-10-12 17:34:00,773] http-nio-8080-exec-1 com.example.demo.controller.adminController 400 ERROR  - Fetching all products for display
-[2023-10-12 17:34:00,774] http-nio-8080-exec-1 com.example.demo.controller.adminController 403 WARN   - Fetching all products: This is a warning message
-[2023-10-12 17:34:00,774] http-nio-8080-exec-1 com.example.demo.controller.adminController 406 INFO   - Fetching all products: Product fetch started
-[2023-10-12 17:34:00,774] http-nio-8080-exec-1 com.example.demo.controller.adminController 409 DEBUG  - Fetching all products: Debug information for product fetch
-[2023-10-12 17:34:00,782] http-nio-8080-exec-1 com.example.demo.controller.adminController 415 INFO   - Successfully fetched all products
-[2023-10-12 17:34:02,517] http-nio-8080-exec-4 com.example.demo.controller.adminController 501 ERROR  - Editing product with ID {}: An error occurred during product editing
-[2023-10-12 17:34:02,517] http-nio-8080-exec-4 com.example.demo.controller.adminController 504 WARN   - Editing product with ID {}: This is a warning message
-[2023-10-12 17:34:02,518] http-nio-8080-exec-4 com.example.demo.controller.adminController 507 INFO   - Editing product with ID {}: Product editing started
-[2023-10-12 17:34:02,518] http-nio-8080-exec-4 com.example.demo.controller.adminController 510 DEBUG  - Editing product with ID {}: Debug information for product editing
-[2023-10-12 17:34:02,527] http-nio-8080-exec-4 com.example.demo.controller.adminController 516 INFO   - Editing product with ID {}: Product data fetched successfully
-[2023-10-12 17:34:02,732] http-nio-8080-exec-1 com.example.demo.controller.adminController 501 ERROR  - Editing product with ID {}: An error occurred during product editing
-[2023-10-12 17:34:02,733] http-nio-8080-exec-1 com.example.demo.controller.adminController 504 WARN   - Editing product with ID {}: This is a warning message
-[2023-10-12 17:34:02,733] http-nio-8080-exec-1 com.example.demo.controller.adminController 507 INFO   - Editing product with ID {}: Product editing started
-[2023-10-12 17:34:02,734] http-nio-8080-exec-1 com.example.demo.controller.adminController 510 DEBUG  - Editing product with ID {}: Debug information for product editing
-[2023-10-12 17:34:02,742] http-nio-8080-exec-1 com.example.demo.controller.adminController 516 INFO   - Editing product with ID {}: Product data fetched successfully
-[2023-10-12 17:34:07,293] http-nio-8080-exec-9 com.example.demo.controller.adminController 542 ERROR  - Updating product with ID {}: An error occurred during product update
-[2023-10-12 17:34:07,294] http-nio-8080-exec-9 com.example.demo.controller.adminController 545 WARN   - Updating product with ID {}: This is a warning message
-[2023-10-12 17:34:07,294] http-nio-8080-exec-9 com.example.demo.controller.adminController 548 INFO   - Updating product with ID {}: Product update started
-[2023-10-12 17:34:07,294] http-nio-8080-exec-9 com.example.demo.controller.adminController 551 DEBUG  - Updating product with ID {}: Debug information for product update
-[2023-10-12 17:34:07,317] http-nio-8080-exec-9 com.example.demo.controller.adminController 565 INFO   - Updating product with ID {}: Product updated successfully
-[2023-10-12 17:34:07,328] http-nio-8080-exec-1 com.example.demo.controller.adminController 400 ERROR  - Fetching all products for display
-[2023-10-12 17:34:07,328] http-nio-8080-exec-1 com.example.demo.controller.adminController 403 WARN   - Fetching all products: This is a warning message
-[2023-10-12 17:34:07,329] http-nio-8080-exec-1 com.example.demo.controller.adminController 406 INFO   - Fetching all products: Product fetch started
-[2023-10-12 17:34:07,330] http-nio-8080-exec-1 com.example.demo.controller.adminController 409 DEBUG  - Fetching all products: Debug information for product fetch
-[2023-10-12 17:34:07,335] http-nio-8080-exec-1 com.example.demo.controller.adminController 415 INFO   - Successfully fetched all products
-[2023-10-12 17:34:07,533] http-nio-8080-exec-1 com.example.demo.controller.adminController 400 ERROR  - Fetching all products for display
-[2023-10-12 17:34:07,533] http-nio-8080-exec-1 com.example.demo.controller.adminController 403 WARN   - Fetching all products: This is a warning message
-[2023-10-12 17:34:07,536] http-nio-8080-exec-1 com.example.demo.controller.adminController 406 INFO   - Fetching all products: Product fetch started
-[2023-10-12 17:34:07,537] http-nio-8080-exec-1 com.example.demo.controller.adminController 409 DEBUG  - Fetching all products: Debug information for product fetch
-[2023-10-12 17:34:07,545] http-nio-8080-exec-1 com.example.demo.controller.adminController 415 INFO   - Successfully fetched all products
-[2023-10-12 17:34:08,810] http-nio-8080-exec-4 com.example.demo.controller.adminController 583 ERROR  - Deleting product with ID {}: An error occurred during product deletion
-[2023-10-12 17:34:08,811] http-nio-8080-exec-4 com.example.demo.controller.adminController 586 WARN   - Deleting product with ID {}: This is a warning message
-[2023-10-12 17:34:08,811] http-nio-8080-exec-4 com.example.demo.controller.adminController 589 INFO   - Deleting product with ID {}: Product deletion started
-[2023-10-12 17:34:08,811] http-nio-8080-exec-4 com.example.demo.controller.adminController 592 DEBUG  - Deleting product with ID {}: Debug information for product deletion
-[2023-10-12 17:34:08,834] http-nio-8080-exec-4 com.example.demo.controller.adminController 598 INFO   - Deleting product with ID {}: Product deleted successfully
-[2023-10-12 17:34:08,843] http-nio-8080-exec-8 com.example.demo.controller.adminController 400 ERROR  - Fetching all products for display
-[2023-10-12 17:34:08,844] http-nio-8080-exec-8 com.example.demo.controller.adminController 403 WARN   - Fetching all products: This is a warning message
-[2023-10-12 17:34:08,844] http-nio-8080-exec-8 com.example.demo.controller.adminController 406 INFO   - Fetching all products: Product fetch started
-[2023-10-12 17:34:08,844] http-nio-8080-exec-8 com.example.demo.controller.adminController 409 DEBUG  - Fetching all products: Debug information for product fetch
-[2023-10-12 17:34:08,850] http-nio-8080-exec-8 com.example.demo.controller.adminController 415 INFO   - Successfully fetched all products
-[2023-10-12 17:34:09,034] http-nio-8080-exec-8 com.example.demo.controller.adminController 400 ERROR  - Fetching all products for display
-[2023-10-12 17:34:09,043] http-nio-8080-exec-8 com.example.demo.controller.adminController 403 WARN   - Fetching all products: This is a warning message
-[2023-10-12 17:34:09,043] http-nio-8080-exec-8 com.example.demo.controller.adminController 406 INFO   - Fetching all products: Product fetch started
-[2023-10-12 17:34:09,044] http-nio-8080-exec-8 com.example.demo.controller.adminController 409 DEBUG  - Fetching all products: Debug information for product fetch
-[2023-10-12 17:34:09,057] http-nio-8080-exec-8 com.example.demo.controller.adminController 415 INFO   - Successfully fetched all products
-[2023-10-12 17:34:10,956] http-nio-8080-exec-7 com.example.demo.controller.adminController 159 ERROR  - Fetching all admin data for display
-[2023-10-12 17:34:10,957] http-nio-8080-exec-7 com.example.demo.controller.adminController 162 WARN   - Fetching all admin data: This is a warning message
-[2023-10-12 17:34:10,957] http-nio-8080-exec-7 com.example.demo.controller.adminController 165 INFO   - Fetching all admin data: This is an info message
-[2023-10-12 17:34:10,957] http-nio-8080-exec-7 com.example.demo.controller.adminController 168 DEBUG  - Fetching all admin data: This is a debug message
-[2023-10-12 17:34:10,968] http-nio-8080-exec-7 com.example.demo.controller.adminController 174 INFO   - Successfully fetched all admin data
-[2023-10-12 17:34:11,181] http-nio-8080-exec-6 com.example.demo.controller.adminController 159 ERROR  - Fetching all admin data for display
-[2023-10-12 17:34:11,181] http-nio-8080-exec-6 com.example.demo.controller.adminController 162 WARN   - Fetching all admin data: This is a warning message
-[2023-10-12 17:34:11,181] http-nio-8080-exec-6 com.example.demo.controller.adminController 165 INFO   - Fetching all admin data: This is an info message
-[2023-10-12 17:34:11,182] http-nio-8080-exec-6 com.example.demo.controller.adminController 168 DEBUG  - Fetching all admin data: This is a debug message
-[2023-10-12 17:34:11,187] http-nio-8080-exec-6 com.example.demo.controller.adminController 174 INFO   - Successfully fetched all admin data
-[2023-10-12 17:34:15,210] http-nio-8080-exec-3 com.example.demo.controller.adminController 48 ERROR  - Fetching all customers for display
-[2023-10-12 17:34:15,211] http-nio-8080-exec-3 com.example.demo.controller.adminController 51 WARN   - Fetching all customers
-[2023-10-12 17:34:15,211] http-nio-8080-exec-3 com.example.demo.controller.adminController 54 INFO   - Fetching all customers
-[2023-10-12 17:34:15,211] http-nio-8080-exec-3 com.example.demo.controller.adminController 57 DEBUG  - Fetching all customers
-[2023-10-12 17:34:15,222] http-nio-8080-exec-3 com.example.demo.controller.adminController 66 INFO   - Successfully fetched all customers
-[2023-10-12 17:34:15,408] http-nio-8080-exec-1 com.example.demo.controller.adminController 48 ERROR  - Fetching all customers for display
-[2023-10-12 17:34:15,409] http-nio-8080-exec-1 com.example.demo.controller.adminController 51 WARN   - Fetching all customers
-[2023-10-12 17:34:15,412] http-nio-8080-exec-1 com.example.demo.controller.adminController 54 INFO   - Fetching all customers
-[2023-10-12 17:34:15,413] http-nio-8080-exec-1 com.example.demo.controller.adminController 57 DEBUG  - Fetching all customers
-[2023-10-12 17:34:15,429] http-nio-8080-exec-1 com.example.demo.controller.adminController 66 INFO   - Successfully fetched all customers
-[2023-10-12 17:35:11,925] http-nio-8080-exec-10 com.example.demo.controller.adminController 48 ERROR  - Fetching all customers for display
-[2023-10-12 17:35:11,928] http-nio-8080-exec-10 com.example.demo.controller.adminController 51 WARN   - Fetching all customers
-[2023-10-12 17:35:11,928] http-nio-8080-exec-10 com.example.demo.controller.adminController 54 INFO   - Fetching all customers
-[2023-10-12 17:35:11,928] http-nio-8080-exec-10 com.example.demo.controller.adminController 57 DEBUG  - Fetching all customers
-[2023-10-12 17:35:11,933] http-nio-8080-exec-10 com.example.demo.controller.adminController 66 INFO   - Successfully fetched all customers
-[2023-10-12 17:35:12,103] http-nio-8080-exec-10 com.example.demo.controller.adminController 48 ERROR  - Fetching all customers for display
-[2023-10-12 17:35:12,104] http-nio-8080-exec-10 com.example.demo.controller.adminController 51 WARN   - Fetching all customers
-[2023-10-12 17:35:12,104] http-nio-8080-exec-10 com.example.demo.controller.adminController 54 INFO   - Fetching all customers
-[2023-10-12 17:35:12,104] http-nio-8080-exec-10 com.example.demo.controller.adminController 57 DEBUG  - Fetching all customers
-[2023-10-12 17:35:12,109] http-nio-8080-exec-10 com.example.demo.controller.adminController 66 INFO   - Successfully fetched all customers
-[2023-10-12 17:35:13,249] http-nio-8080-exec-4 com.example.demo.controller.adminController 48 ERROR  - Fetching all customers for display
-[2023-10-12 17:35:13,249] http-nio-8080-exec-4 com.example.demo.controller.adminController 51 WARN   - Fetching all customers
-[2023-10-12 17:35:13,250] http-nio-8080-exec-4 com.example.demo.controller.adminController 54 INFO   - Fetching all customers
-[2023-10-12 17:35:13,250] http-nio-8080-exec-4 com.example.demo.controller.adminController 57 DEBUG  - Fetching all customers
-[2023-10-12 17:35:13,255] http-nio-8080-exec-4 com.example.demo.controller.adminController 66 INFO   - Successfully fetched all customers
-[2023-10-12 17:35:27,620] http-nio-8080-exec-10 com.example.demo.controller.adminController 48 ERROR  - Fetching all customers for display
-[2023-10-12 17:35:27,621] http-nio-8080-exec-10 com.example.demo.controller.adminController 51 WARN   - Fetching all customers
-[2023-10-12 17:35:27,621] http-nio-8080-exec-10 com.example.demo.controller.adminController 54 INFO   - Fetching all customers
-[2023-10-12 17:35:27,624] http-nio-8080-exec-10 com.example.demo.controller.adminController 57 DEBUG  - Fetching all customers
-[2023-10-12 17:35:27,634] http-nio-8080-exec-10 com.example.demo.controller.adminController 66 INFO   - Successfully fetched all customers
-[2023-10-12 17:35:27,836] http-nio-8080-exec-3 com.example.demo.controller.adminController 48 ERROR  - Fetching all customers for display
-[2023-10-12 17:35:27,840] http-nio-8080-exec-3 com.example.demo.controller.adminController 51 WARN   - Fetching all customers
-[2023-10-12 17:35:27,841] http-nio-8080-exec-3 com.example.demo.controller.adminController 54 INFO   - Fetching all customers
-[2023-10-12 17:35:27,841] http-nio-8080-exec-3 com.example.demo.controller.adminController 57 DEBUG  - Fetching all customers
-[2023-10-12 17:35:27,853] http-nio-8080-exec-3 com.example.demo.controller.adminController 66 INFO   - Successfully fetched all customers
-[2023-10-12 17:36:01,196] http-nio-8080-exec-7 com.example.demo.controller.adminController 400 ERROR  - Fetching all products for display
-[2023-10-12 17:36:01,196] http-nio-8080-exec-7 com.example.demo.controller.adminController 403 WARN   - Fetching all products: This is a warning message
-[2023-10-12 17:36:01,196] http-nio-8080-exec-7 com.example.demo.controller.adminController 406 INFO   - Fetching all products: Product fetch started
-[2023-10-12 17:36:01,196] http-nio-8080-exec-7 com.example.demo.controller.adminController 409 DEBUG  - Fetching all products: Debug information for product fetch
-[2023-10-12 17:36:01,203] http-nio-8080-exec-7 com.example.demo.controller.adminController 415 INFO   - Successfully fetched all products
-[2023-10-12 17:36:01,401] http-nio-8080-exec-8 com.example.demo.controller.adminController 400 ERROR  - Fetching all products for display
-[2023-10-12 17:36:01,401] http-nio-8080-exec-8 com.example.demo.controller.adminController 403 WARN   - Fetching all products: This is a warning message
-[2023-10-12 17:36:01,402] http-nio-8080-exec-8 com.example.demo.controller.adminController 406 INFO   - Fetching all products: Product fetch started
-[2023-10-12 17:36:01,402] http-nio-8080-exec-8 com.example.demo.controller.adminController 409 DEBUG  - Fetching all products: Debug information for product fetch
-[2023-10-12 17:36:01,411] http-nio-8080-exec-8 com.example.demo.controller.adminController 415 INFO   - Successfully fetched all products
-[2023-10-12 17:36:05,838] http-nio-8080-exec-7 com.example.demo.controller.adminController 159 ERROR  - Fetching all admin data for display
-[2023-10-12 17:36:05,839] http-nio-8080-exec-7 com.example.demo.controller.adminController 162 WARN   - Fetching all admin data: This is a warning message
-[2023-10-12 17:36:05,839] http-nio-8080-exec-7 com.example.demo.controller.adminController 165 INFO   - Fetching all admin data: This is an info message
-[2023-10-12 17:36:05,839] http-nio-8080-exec-7 com.example.demo.controller.adminController 168 DEBUG  - Fetching all admin data: This is a debug message
-[2023-10-12 17:36:05,847] http-nio-8080-exec-7 com.example.demo.controller.adminController 174 INFO   - Successfully fetched all admin data
-[2023-10-12 17:36:06,013] http-nio-8080-exec-8 com.example.demo.controller.adminController 159 ERROR  - Fetching all admin data for display
-[2023-10-12 17:36:06,013] http-nio-8080-exec-8 com.example.demo.controller.adminController 162 WARN   - Fetching all admin data: This is a warning message
-[2023-10-12 17:36:06,013] http-nio-8080-exec-8 com.example.demo.controller.adminController 165 INFO   - Fetching all admin data: This is an info message
-[2023-10-12 17:36:06,013] http-nio-8080-exec-8 com.example.demo.controller.adminController 168 DEBUG  - Fetching all admin data: This is a debug message
-[2023-10-12 17:36:06,022] http-nio-8080-exec-8 com.example.demo.controller.adminController 174 INFO   - Successfully fetched all admin data
-[2023-10-12 17:37:46,829] http-nio-8080-exec-2 com.example.demo.controller.adminController 400 ERROR  - Fetching all products for display
-[2023-10-12 17:37:46,832] http-nio-8080-exec-2 com.example.demo.controller.adminController 403 WARN   - Fetching all products: This is a warning message
-[2023-10-12 17:37:46,832] http-nio-8080-exec-2 com.example.demo.controller.adminController 406 INFO   - Fetching all products: Product fetch started
-[2023-10-12 17:37:46,832] http-nio-8080-exec-2 com.example.demo.controller.adminController 409 DEBUG  - Fetching all products: Debug information for product fetch
-[2023-10-12 17:37:46,848] http-nio-8080-exec-2 com.example.demo.controller.adminController 415 INFO   - Successfully fetched all products
-[2023-10-12 17:37:47,133] http-nio-8080-exec-7 com.example.demo.controller.adminController 400 ERROR  - Fetching all products for display
-[2023-10-12 17:37:47,133] http-nio-8080-exec-7 com.example.demo.controller.adminController 403 WARN   - Fetching all products: This is a warning message
-[2023-10-12 17:37:47,134] http-nio-8080-exec-7 com.example.demo.controller.adminController 406 INFO   - Fetching all products: Product fetch started
-[2023-10-12 17:37:47,134] http-nio-8080-exec-7 com.example.demo.controller.adminController 409 DEBUG  - Fetching all products: Debug information for product fetch
-[2023-10-12 17:37:47,141] http-nio-8080-exec-7 com.example.demo.controller.adminController 415 INFO   - Successfully fetched all products
-[2023-10-12 17:37:51,064] http-nio-8080-exec-6 com.example.demo.controller.adminController 159 ERROR  - Fetching all admin data for display
-[2023-10-12 17:37:51,064] http-nio-8080-exec-6 com.example.demo.controller.adminController 162 WARN   - Fetching all admin data: This is a warning message
-[2023-10-12 17:37:51,065] http-nio-8080-exec-6 com.example.demo.controller.adminController 165 INFO   - Fetching all admin data: This is an info message
-[2023-10-12 17:37:51,065] http-nio-8080-exec-6 com.example.demo.controller.adminController 168 DEBUG  - Fetching all admin data: This is a debug message
-[2023-10-12 17:37:51,078] http-nio-8080-exec-6 com.example.demo.controller.adminController 174 INFO   - Successfully fetched all admin data
-[2023-10-12 17:37:51,298] http-nio-8080-exec-3 com.example.demo.controller.adminController 159 ERROR  - Fetching all admin data for display
-[2023-10-12 17:37:51,300] http-nio-8080-exec-3 com.example.demo.controller.adminController 162 WARN   - Fetching all admin data: This is a warning message
-[2023-10-12 17:37:51,301] http-nio-8080-exec-3 com.example.demo.controller.adminController 165 INFO   - Fetching all admin data: This is an info message
-[2023-10-12 17:37:51,301] http-nio-8080-exec-3 com.example.demo.controller.adminController 168 DEBUG  - Fetching all admin data: This is a debug message
-[2023-10-12 17:37:51,313] http-nio-8080-exec-3 com.example.demo.controller.adminController 174 INFO   - Successfully fetched all admin data
-[2023-10-12 17:37:52,238] http-nio-8080-exec-4 com.example.demo.controller.adminController 193 ERROR  - Creating a new admin: An error occurred during admin creation
-[2023-10-12 17:37:52,242] http-nio-8080-exec-4 com.example.demo.controller.adminController 196 WARN   - Creating a new admin: This is a warning message
-[2023-10-12 17:37:52,243] http-nio-8080-exec-4 com.example.demo.controller.adminController 199 INFO   - Creating a new admin: Admin creation started
-[2023-10-12 17:37:52,243] http-nio-8080-exec-4 com.example.demo.controller.adminController 202 DEBUG  - Creating a new admin: Debug information for admin creation
-[2023-10-12 17:37:52,243] http-nio-8080-exec-4 com.example.demo.controller.adminController 209 INFO   - Creating a new admin: Admin creation completed successfully
-[2023-10-12 17:37:52,497] http-nio-8080-exec-9 com.example.demo.controller.adminController 193 ERROR  - Creating a new admin: An error occurred during admin creation
-[2023-10-12 17:37:52,499] http-nio-8080-exec-9 com.example.demo.controller.adminController 196 WARN   - Creating a new admin: This is a warning message
-[2023-10-12 17:37:52,500] http-nio-8080-exec-9 com.example.demo.controller.adminController 199 INFO   - Creating a new admin: Admin creation started
-[2023-10-12 17:37:52,502] http-nio-8080-exec-9 com.example.demo.controller.adminController 202 DEBUG  - Creating a new admin: Debug information for admin creation
-[2023-10-12 17:37:52,506] http-nio-8080-exec-9 com.example.demo.controller.adminController 209 INFO   - Creating a new admin: Admin creation completed successfully
-[2023-10-12 17:38:00,110] http-nio-8080-exec-7 com.example.demo.controller.adminController 229 ERROR  - Saving admin: An error occurred during admin save
-[2023-10-12 17:38:00,111] http-nio-8080-exec-7 com.example.demo.controller.adminController 232 WARN   - Saving admin: This is a warning message
-[2023-10-12 17:38:00,111] http-nio-8080-exec-7 com.example.demo.controller.adminController 235 INFO   - Saving admin: Admin save started
-[2023-10-12 17:38:00,111] http-nio-8080-exec-7 com.example.demo.controller.adminController 238 DEBUG  - Saving admin: Debug information for admin save
-[2023-10-12 17:38:00,238] http-nio-8080-exec-7 com.example.demo.controller.adminController 248 INFO   - Saving admin: Admin saved successfully
-[2023-10-12 17:38:00,247] http-nio-8080-exec-10 com.example.demo.controller.adminController 159 ERROR  - Fetching all admin data for display
-[2023-10-12 17:38:00,247] http-nio-8080-exec-10 com.example.demo.controller.adminController 162 WARN   - Fetching all admin data: This is a warning message
-[2023-10-12 17:38:00,247] http-nio-8080-exec-10 com.example.demo.controller.adminController 165 INFO   - Fetching all admin data: This is an info message
-[2023-10-12 17:38:00,247] http-nio-8080-exec-10 com.example.demo.controller.adminController 168 DEBUG  - Fetching all admin data: This is a debug message
-[2023-10-12 17:38:00,252] http-nio-8080-exec-10 com.example.demo.controller.adminController 174 INFO   - Successfully fetched all admin data
-[2023-10-12 17:38:00,414] http-nio-8080-exec-2 com.example.demo.controller.adminController 159 ERROR  - Fetching all admin data for display
-[2023-10-12 17:38:00,415] http-nio-8080-exec-2 com.example.demo.controller.adminController 162 WARN   - Fetching all admin data: This is a warning message
-[2023-10-12 17:38:00,415] http-nio-8080-exec-2 com.example.demo.controller.adminController 165 INFO   - Fetching all admin data: This is an info message
-[2023-10-12 17:38:00,415] http-nio-8080-exec-2 com.example.demo.controller.adminController 168 DEBUG  - Fetching all admin data: This is a debug message
-[2023-10-12 17:38:00,428] http-nio-8080-exec-2 com.example.demo.controller.adminController 174 INFO   - Successfully fetched all admin data
-[2023-10-12 17:38:02,821] http-nio-8080-exec-7 com.example.demo.controller.adminController 48 ERROR  - Fetching all customers for display
-[2023-10-12 17:38:02,821] http-nio-8080-exec-7 com.example.demo.controller.adminController 51 WARN   - Fetching all customers
-[2023-10-12 17:38:02,822] http-nio-8080-exec-7 com.example.demo.controller.adminController 54 INFO   - Fetching all customers
-[2023-10-12 17:38:02,822] http-nio-8080-exec-7 com.example.demo.controller.adminController 57 DEBUG  - Fetching all customers
-[2023-10-12 17:38:02,831] http-nio-8080-exec-7 com.example.demo.controller.adminController 66 INFO   - Successfully fetched all customers
-[2023-10-12 17:38:03,071] http-nio-8080-exec-7 com.example.demo.controller.adminController 48 ERROR  - Fetching all customers for display
-[2023-10-12 17:38:03,071] http-nio-8080-exec-7 com.example.demo.controller.adminController 51 WARN   - Fetching all customers
-[2023-10-12 17:38:03,071] http-nio-8080-exec-7 com.example.demo.controller.adminController 54 INFO   - Fetching all customers
-[2023-10-12 17:38:03,071] http-nio-8080-exec-7 com.example.demo.controller.adminController 57 DEBUG  - Fetching all customers
-[2023-10-12 17:38:03,077] http-nio-8080-exec-7 com.example.demo.controller.adminController 66 INFO   - Successfully fetched all customers
-[2023-10-12 17:38:04,218] http-nio-8080-exec-3 com.example.demo.controller.adminController 85 ERROR  - Fetching all customers for display
-[2023-10-12 17:38:04,219] http-nio-8080-exec-3 com.example.demo.controller.adminController 88 WARN   - Fetching all customers
-[2023-10-12 17:38:04,220] http-nio-8080-exec-3 com.example.demo.controller.adminController 91 INFO   - Fetching all customers
-[2023-10-12 17:38:04,220] http-nio-8080-exec-3 com.example.demo.controller.adminController 94 DEBUG  - Fetching all customers
-[2023-10-12 17:38:04,220] http-nio-8080-exec-3 com.example.demo.controller.adminController 103 INFO   - Successfully fetched all customers
-[2023-10-12 17:38:04,464] http-nio-8080-exec-4 com.example.demo.controller.adminController 85 ERROR  - Fetching all customers for display
-[2023-10-12 17:38:04,465] http-nio-8080-exec-4 com.example.demo.controller.adminController 88 WARN   - Fetching all customers
-[2023-10-12 17:38:04,466] http-nio-8080-exec-4 com.example.demo.controller.adminController 91 INFO   - Fetching all customers
-[2023-10-12 17:38:04,467] http-nio-8080-exec-4 com.example.demo.controller.adminController 94 DEBUG  - Fetching all customers
-[2023-10-12 17:38:04,467] http-nio-8080-exec-4 com.example.demo.controller.adminController 103 INFO   - Successfully fetched all customers
-[2023-10-12 17:38:11,689] http-nio-8080-exec-3 com.example.demo.controller.adminController 125 ERROR  - An error occurred while saving customer
-[2023-10-12 17:38:11,689] http-nio-8080-exec-3 com.example.demo.controller.adminController 128 WARN   - A warning message for customer
-[2023-10-12 17:38:11,689] http-nio-8080-exec-3 com.example.demo.controller.adminController 131 INFO   - Saving customer
-[2023-10-12 17:38:11,797] http-nio-8080-exec-3 com.example.demo.controller.adminController 138 DEBUG  - Debug message for customer
-[2023-10-12 17:38:11,802] http-nio-8080-exec-4 com.example.demo.controller.adminController 48 ERROR  - Fetching all customers for display
-[2023-10-12 17:38:11,803] http-nio-8080-exec-4 com.example.demo.controller.adminController 51 WARN   - Fetching all customers
-[2023-10-12 17:38:11,803] http-nio-8080-exec-4 com.example.demo.controller.adminController 54 INFO   - Fetching all customers
-[2023-10-12 17:38:11,803] http-nio-8080-exec-4 com.example.demo.controller.adminController 57 DEBUG  - Fetching all customers
-[2023-10-12 17:38:11,813] http-nio-8080-exec-4 com.example.demo.controller.adminController 66 INFO   - Successfully fetched all customers
-[2023-10-12 17:38:11,972] http-nio-8080-exec-9 com.example.demo.controller.adminController 48 ERROR  - Fetching all customers for display
-[2023-10-12 17:38:11,972] http-nio-8080-exec-9 com.example.demo.controller.adminController 51 WARN   - Fetching all customers
-[2023-10-12 17:38:11,972] http-nio-8080-exec-9 com.example.demo.controller.adminController 54 INFO   - Fetching all customers
-[2023-10-12 17:38:11,973] http-nio-8080-exec-9 com.example.demo.controller.adminController 57 DEBUG  - Fetching all customers
-[2023-10-12 17:38:11,984] http-nio-8080-exec-9 com.example.demo.controller.adminController 66 INFO   - Successfully fetched all customers
-[2023-10-12 17:38:13,527] http-nio-8080-exec-3 com.example.demo.controller.adminController 159 ERROR  - Fetching all admin data for display
-[2023-10-12 17:38:13,527] http-nio-8080-exec-3 com.example.demo.controller.adminController 162 WARN   - Fetching all admin data: This is a warning message
-[2023-10-12 17:38:13,527] http-nio-8080-exec-3 com.example.demo.controller.adminController 165 INFO   - Fetching all admin data: This is an info message
-[2023-10-12 17:38:13,527] http-nio-8080-exec-3 com.example.demo.controller.adminController 168 DEBUG  - Fetching all admin data: This is a debug message
-[2023-10-12 17:38:13,535] http-nio-8080-exec-3 com.example.demo.controller.adminController 174 INFO   - Successfully fetched all admin data
-[2023-10-12 17:38:13,736] http-nio-8080-exec-10 com.example.demo.controller.adminController 159 ERROR  - Fetching all admin data for display
-[2023-10-12 17:38:13,736] http-nio-8080-exec-10 com.example.demo.controller.adminController 162 WARN   - Fetching all admin data: This is a warning message
-[2023-10-12 17:38:13,737] http-nio-8080-exec-10 com.example.demo.controller.adminController 165 INFO   - Fetching all admin data: This is an info message
-[2023-10-12 17:38:13,737] http-nio-8080-exec-10 com.example.demo.controller.adminController 168 DEBUG  - Fetching all admin data: This is a debug message
-[2023-10-12 17:38:13,745] http-nio-8080-exec-10 com.example.demo.controller.adminController 174 INFO   - Successfully fetched all admin data
-[2023-10-12 17:38:45,026] http-nio-8080-exec-7 com.example.demo.controller.adminController 159 ERROR  - Fetching all admin data for display
-[2023-10-12 17:38:45,027] http-nio-8080-exec-7 com.example.demo.controller.adminController 162 WARN   - Fetching all admin data: This is a warning message
-[2023-10-12 17:38:45,028] http-nio-8080-exec-7 com.example.demo.controller.adminController 165 INFO   - Fetching all admin data: This is an info message
-[2023-10-12 17:38:45,028] http-nio-8080-exec-7 com.example.demo.controller.adminController 168 DEBUG  - Fetching all admin data: This is a debug message
-[2023-10-12 17:38:45,045] http-nio-8080-exec-7 com.example.demo.controller.adminController 174 INFO   - Successfully fetched all admin data
-[2023-10-12 17:38:45,246] http-nio-8080-exec-2 com.example.demo.controller.adminController 159 ERROR  - Fetching all admin data for display
-[2023-10-12 17:38:45,246] http-nio-8080-exec-2 com.example.demo.controller.adminController 162 WARN   - Fetching all admin data: This is a warning message
-[2023-10-12 17:38:45,247] http-nio-8080-exec-2 com.example.demo.controller.adminController 165 INFO   - Fetching all admin data: This is an info message
-[2023-10-12 17:38:45,247] http-nio-8080-exec-2 com.example.demo.controller.adminController 168 DEBUG  - Fetching all admin data: This is a debug message
-[2023-10-12 17:38:45,262] http-nio-8080-exec-2 com.example.demo.controller.adminController 174 INFO   - Successfully fetched all admin data
-[2023-10-12 17:38:46,982] http-nio-8080-exec-5 com.example.demo.controller.adminController 193 ERROR  - Creating a new admin: An error occurred during admin creation
-[2023-10-12 17:38:46,984] http-nio-8080-exec-5 com.example.demo.controller.adminController 196 WARN   - Creating a new admin: This is a warning message
-[2023-10-12 17:38:46,985] http-nio-8080-exec-5 com.example.demo.controller.adminController 199 INFO   - Creating a new admin: Admin creation started
-[2023-10-12 17:38:46,986] http-nio-8080-exec-5 com.example.demo.controller.adminController 202 DEBUG  - Creating a new admin: Debug information for admin creation
-[2023-10-12 17:38:46,986] http-nio-8080-exec-5 com.example.demo.controller.adminController 209 INFO   - Creating a new admin: Admin creation completed successfully
-[2023-10-12 17:38:47,235] http-nio-8080-exec-2 com.example.demo.controller.adminController 193 ERROR  - Creating a new admin: An error occurred during admin creation
-[2023-10-12 17:38:47,235] http-nio-8080-exec-2 com.example.demo.controller.adminController 196 WARN   - Creating a new admin: This is a warning message
-[2023-10-12 17:38:47,235] http-nio-8080-exec-2 com.example.demo.controller.adminController 199 INFO   - Creating a new admin: Admin creation started
-[2023-10-12 17:38:47,236] http-nio-8080-exec-2 com.example.demo.controller.adminController 202 DEBUG  - Creating a new admin: Debug information for admin creation
-[2023-10-12 17:38:47,236] http-nio-8080-exec-2 com.example.demo.controller.adminController 209 INFO   - Creating a new admin: Admin creation completed successfully
-[2023-10-12 17:39:10,902] http-nio-8080-exec-9 com.example.demo.controller.adminController 229 ERROR  - Saving admin: An error occurred during admin save
-[2023-10-12 17:39:10,903] http-nio-8080-exec-9 com.example.demo.controller.adminController 232 WARN   - Saving admin: This is a warning message
-[2023-10-12 17:39:10,903] http-nio-8080-exec-9 com.example.demo.controller.adminController 235 INFO   - Saving admin: Admin save started
-[2023-10-12 17:39:10,903] http-nio-8080-exec-9 com.example.demo.controller.adminController 238 DEBUG  - Saving admin: Debug information for admin save
-[2023-10-12 17:39:11,015] http-nio-8080-exec-9 com.example.demo.controller.adminController 248 INFO   - Saving admin: Admin saved successfully
-[2023-10-12 17:39:11,020] http-nio-8080-exec-5 com.example.demo.controller.adminController 159 ERROR  - Fetching all admin data for display
-[2023-10-12 17:39:11,021] http-nio-8080-exec-5 com.example.demo.controller.adminController 162 WARN   - Fetching all admin data: This is a warning message
-[2023-10-12 17:39:11,021] http-nio-8080-exec-5 com.example.demo.controller.adminController 165 INFO   - Fetching all admin data: This is an info message
-[2023-10-12 17:39:11,021] http-nio-8080-exec-5 com.example.demo.controller.adminController 168 DEBUG  - Fetching all admin data: This is a debug message
-[2023-10-12 17:39:11,029] http-nio-8080-exec-5 com.example.demo.controller.adminController 174 INFO   - Successfully fetched all admin data
-[2023-10-12 17:39:11,199] http-nio-8080-exec-5 com.example.demo.controller.adminController 159 ERROR  - Fetching all admin data for display
-[2023-10-12 17:39:11,200] http-nio-8080-exec-5 com.example.demo.controller.adminController 162 WARN   - Fetching all admin data: This is a warning message
-[2023-10-12 17:39:11,200] http-nio-8080-exec-5 com.example.demo.controller.adminController 165 INFO   - Fetching all admin data: This is an info message
-[2023-10-12 17:39:11,200] http-nio-8080-exec-5 com.example.demo.controller.adminController 168 DEBUG  - Fetching all admin data: This is a debug message
-[2023-10-12 17:39:11,215] http-nio-8080-exec-5 com.example.demo.controller.adminController 174 INFO   - Successfully fetched all admin data
-[2023-10-12 17:39:31,870] http-nio-8080-exec-2 com.example.demo.controller.adminController 400 ERROR  - Fetching all products for display
-[2023-10-12 17:39:31,870] http-nio-8080-exec-2 com.example.demo.controller.adminController 403 WARN   - Fetching all products: This is a warning message
-[2023-10-12 17:39:31,871] http-nio-8080-exec-2 com.example.demo.controller.adminController 406 INFO   - Fetching all products: Product fetch started
-[2023-10-12 17:39:31,871] http-nio-8080-exec-2 com.example.demo.controller.adminController 409 DEBUG  - Fetching all products: Debug information for product fetch
-[2023-10-12 17:39:31,876] http-nio-8080-exec-2 com.example.demo.controller.adminController 415 INFO   - Successfully fetched all products
-[2023-10-12 17:39:32,007] http-nio-8080-exec-8 com.example.demo.controller.adminController 400 ERROR  - Fetching all products for display
-[2023-10-12 17:39:32,007] http-nio-8080-exec-8 com.example.demo.controller.adminController 403 WARN   - Fetching all products: This is a warning message
-[2023-10-12 17:39:32,007] http-nio-8080-exec-8 com.example.demo.controller.adminController 406 INFO   - Fetching all products: Product fetch started
-[2023-10-12 17:39:32,008] http-nio-8080-exec-8 com.example.demo.controller.adminController 409 DEBUG  - Fetching all products: Debug information for product fetch
-[2023-10-12 17:39:32,017] http-nio-8080-exec-8 com.example.demo.controller.adminController 415 INFO   - Successfully fetched all products
-[2023-10-12 17:40:14,075] http-nio-8080-exec-5 com.example.demo.controller.adminController 400 ERROR  - Fetching all products for display
-[2023-10-12 17:40:14,076] http-nio-8080-exec-5 com.example.demo.controller.adminController 403 WARN   - Fetching all products: This is a warning message
-[2023-10-12 17:40:14,076] http-nio-8080-exec-5 com.example.demo.controller.adminController 406 INFO   - Fetching all products: Product fetch started
-[2023-10-12 17:40:14,076] http-nio-8080-exec-5 com.example.demo.controller.adminController 409 DEBUG  - Fetching all products: Debug information for product fetch
-[2023-10-12 17:40:14,086] http-nio-8080-exec-5 com.example.demo.controller.adminController 415 INFO   - Successfully fetched all products
-[2023-10-12 17:40:14,306] http-nio-8080-exec-8 com.example.demo.controller.adminController 400 ERROR  - Fetching all products for display
-[2023-10-12 17:40:14,307] http-nio-8080-exec-8 com.example.demo.controller.adminController 403 WARN   - Fetching all products: This is a warning message
-[2023-10-12 17:40:14,307] http-nio-8080-exec-8 com.example.demo.controller.adminController 406 INFO   - Fetching all products: Product fetch started
-[2023-10-12 17:40:14,309] http-nio-8080-exec-8 com.example.demo.controller.adminController 409 DEBUG  - Fetching all products: Debug information for product fetch
-[2023-10-12 17:40:14,318] http-nio-8080-exec-8 com.example.demo.controller.adminController 415 INFO   - Successfully fetched all products
-[2023-10-12 17:40:15,813] http-nio-8080-exec-5 com.example.demo.controller.adminController 159 ERROR  - Fetching all admin data for display
-[2023-10-12 17:40:15,814] http-nio-8080-exec-5 com.example.demo.controller.adminController 162 WARN   - Fetching all admin data: This is a warning message
-[2023-10-12 17:40:15,814] http-nio-8080-exec-5 com.example.demo.controller.adminController 165 INFO   - Fetching all admin data: This is an info message
-[2023-10-12 17:40:15,814] http-nio-8080-exec-5 com.example.demo.controller.adminController 168 DEBUG  - Fetching all admin data: This is a debug message
-[2023-10-12 17:40:15,825] http-nio-8080-exec-5 com.example.demo.controller.adminController 174 INFO   - Successfully fetched all admin data
-[2023-10-12 17:40:16,159] http-nio-8080-exec-3 com.example.demo.controller.adminController 159 ERROR  - Fetching all admin data for display
-[2023-10-12 17:40:16,159] http-nio-8080-exec-3 com.example.demo.controller.adminController 162 WARN   - Fetching all admin data: This is a warning message
-[2023-10-12 17:40:16,159] http-nio-8080-exec-3 com.example.demo.controller.adminController 165 INFO   - Fetching all admin data: This is an info message
-[2023-10-12 17:40:16,160] http-nio-8080-exec-3 com.example.demo.controller.adminController 168 DEBUG  - Fetching all admin data: This is a debug message
-[2023-10-12 17:40:16,165] http-nio-8080-exec-3 com.example.demo.controller.adminController 174 INFO   - Successfully fetched all admin data
-[2023-10-12 17:40:17,015] http-nio-8080-exec-9 com.example.demo.controller.adminController 48 ERROR  - Fetching all customers for display
-[2023-10-12 17:40:17,016] http-nio-8080-exec-9 com.example.demo.controller.adminController 51 WARN   - Fetching all customers
-[2023-10-12 17:40:17,018] http-nio-8080-exec-9 com.example.demo.controller.adminController 54 INFO   - Fetching all customers
-[2023-10-12 17:40:17,020] http-nio-8080-exec-9 com.example.demo.controller.adminController 57 DEBUG  - Fetching all customers
-[2023-10-12 17:40:17,029] http-nio-8080-exec-9 com.example.demo.controller.adminController 66 INFO   - Successfully fetched all customers
-[2023-10-12 17:40:17,219] http-nio-8080-exec-4 com.example.demo.controller.adminController 48 ERROR  - Fetching all customers for display
-[2023-10-12 17:40:17,221] http-nio-8080-exec-4 com.example.demo.controller.adminController 51 WARN   - Fetching all customers
-[2023-10-12 17:40:17,222] http-nio-8080-exec-4 com.example.demo.controller.adminController 54 INFO   - Fetching all customers
-[2023-10-12 17:40:17,223] http-nio-8080-exec-4 com.example.demo.controller.adminController 57 DEBUG  - Fetching all customers
-[2023-10-12 17:40:17,231] http-nio-8080-exec-4 com.example.demo.controller.adminController 66 INFO   - Successfully fetched all customers
-[2023-10-12 17:43:04,065] http-nio-8080-exec-1 com.example.demo.controller.adminController 48 ERROR  - Fetching all customers for display
-[2023-10-12 17:43:04,065] http-nio-8080-exec-1 com.example.demo.controller.adminController 51 WARN   - Fetching all customers
-[2023-10-12 17:43:04,065] http-nio-8080-exec-1 com.example.demo.controller.adminController 54 INFO   - Fetching all customers
-[2023-10-12 17:43:04,066] http-nio-8080-exec-1 com.example.demo.controller.adminController 57 DEBUG  - Fetching all customers
-[2023-10-12 17:43:04,075] http-nio-8080-exec-1 com.example.demo.controller.adminController 66 INFO   - Successfully fetched all customers
-[2023-10-12 17:43:04,429] http-nio-8080-exec-10 com.example.demo.controller.adminController 48 ERROR  - Fetching all customers for display
-[2023-10-12 17:43:04,429] http-nio-8080-exec-10 com.example.demo.controller.adminController 51 WARN   - Fetching all customers
-[2023-10-12 17:43:04,430] http-nio-8080-exec-10 com.example.demo.controller.adminController 54 INFO   - Fetching all customers
-[2023-10-12 17:43:04,430] http-nio-8080-exec-10 com.example.demo.controller.adminController 57 DEBUG  - Fetching all customers
-[2023-10-12 17:43:04,435] http-nio-8080-exec-10 com.example.demo.controller.adminController 66 INFO   - Successfully fetched all customers
-[2023-10-12 17:43:12,001] http-nio-8080-exec-3 com.example.demo.controller.adminController 159 ERROR  - Fetching all admin data for display
-[2023-10-12 17:43:12,001] http-nio-8080-exec-3 com.example.demo.controller.adminController 162 WARN   - Fetching all admin data: This is a warning message
-[2023-10-12 17:43:12,002] http-nio-8080-exec-3 com.example.demo.controller.adminController 165 INFO   - Fetching all admin data: This is an info message
-[2023-10-12 17:43:12,002] http-nio-8080-exec-3 com.example.demo.controller.adminController 168 DEBUG  - Fetching all admin data: This is a debug message
-[2023-10-12 17:43:12,009] http-nio-8080-exec-3 com.example.demo.controller.adminController 174 INFO   - Successfully fetched all admin data
-[2023-10-12 17:43:12,122] http-nio-8080-exec-3 com.example.demo.controller.adminController 159 ERROR  - Fetching all admin data for display
-[2023-10-12 17:43:12,123] http-nio-8080-exec-3 com.example.demo.controller.adminController 162 WARN   - Fetching all admin data: This is a warning message
-[2023-10-12 17:43:12,123] http-nio-8080-exec-3 com.example.demo.controller.adminController 165 INFO   - Fetching all admin data: This is an info message
-[2023-10-12 17:43:12,124] http-nio-8080-exec-3 com.example.demo.controller.adminController 168 DEBUG  - Fetching all admin data: This is a debug message
-[2023-10-12 17:43:12,133] http-nio-8080-exec-3 com.example.demo.controller.adminController 174 INFO   - Successfully fetched all admin data
-[2023-10-12 17:43:17,042] http-nio-8080-exec-6 com.example.demo.controller.adminController 159 ERROR  - Fetching all admin data for display
-[2023-10-12 17:43:17,042] http-nio-8080-exec-6 com.example.demo.controller.adminController 162 WARN   - Fetching all admin data: This is a warning message
-[2023-10-12 17:43:17,042] http-nio-8080-exec-6 com.example.demo.controller.adminController 165 INFO   - Fetching all admin data: This is an info message
-[2023-10-12 17:43:17,042] http-nio-8080-exec-6 com.example.demo.controller.adminController 168 DEBUG  - Fetching all admin data: This is a debug message
-[2023-10-12 17:43:17,057] http-nio-8080-exec-6 com.example.demo.controller.adminController 174 INFO   - Successfully fetched all admin data
-[2023-10-12 17:43:17,322] http-nio-8080-exec-6 com.example.demo.controller.adminController 159 ERROR  - Fetching all admin data for display
-[2023-10-12 17:43:17,322] http-nio-8080-exec-6 com.example.demo.controller.adminController 162 WARN   - Fetching all admin data: This is a warning message
-[2023-10-12 17:43:17,322] http-nio-8080-exec-6 com.example.demo.controller.adminController 165 INFO   - Fetching all admin data: This is an info message
-[2023-10-12 17:43:17,323] http-nio-8080-exec-6 com.example.demo.controller.adminController 168 DEBUG  - Fetching all admin data: This is a debug message
-[2023-10-12 17:43:17,328] http-nio-8080-exec-6 com.example.demo.controller.adminController 174 INFO   - Successfully fetched all admin data
-[2023-10-12 17:44:00,814] http-nio-8080-exec-2 com.example.demo.controller.adminController 400 ERROR  - Fetching all products for display
-[2023-10-12 17:44:00,815] http-nio-8080-exec-2 com.example.demo.controller.adminController 403 WARN   - Fetching all products: This is a warning message
-[2023-10-12 17:44:00,815] http-nio-8080-exec-2 com.example.demo.controller.adminController 406 INFO   - Fetching all products: Product fetch started
-[2023-10-12 17:44:00,815] http-nio-8080-exec-2 com.example.demo.controller.adminController 409 DEBUG  - Fetching all products: Debug information for product fetch
-[2023-10-12 17:44:00,818] http-nio-8080-exec-2 com.example.demo.controller.adminController 415 INFO   - Successfully fetched all products
-[2023-10-12 17:44:00,940] http-nio-8080-exec-2 com.example.demo.controller.adminController 400 ERROR  - Fetching all products for display
-[2023-10-12 17:44:00,940] http-nio-8080-exec-2 com.example.demo.controller.adminController 403 WARN   - Fetching all products: This is a warning message
-[2023-10-12 17:44:00,941] http-nio-8080-exec-2 com.example.demo.controller.adminController 406 INFO   - Fetching all products: Product fetch started
-[2023-10-12 17:44:00,941] http-nio-8080-exec-2 com.example.demo.controller.adminController 409 DEBUG  - Fetching all products: Debug information for product fetch
-[2023-10-12 17:44:00,947] http-nio-8080-exec-2 com.example.demo.controller.adminController 415 INFO   - Successfully fetched all products
-[2023-10-12 17:44:05,181] http-nio-8080-exec-6 com.example.demo.controller.adminController 434 ERROR  - Creating a new product: An error occurred during product creation
-[2023-10-12 17:44:05,181] http-nio-8080-exec-6 com.example.demo.controller.adminController 437 WARN   - Creating a new product: This is a warning message
-[2023-10-12 17:44:05,182] http-nio-8080-exec-6 com.example.demo.controller.adminController 440 INFO   - Creating a new product: Product creation started
-[2023-10-12 17:44:05,182] http-nio-8080-exec-6 com.example.demo.controller.adminController 443 DEBUG  - Creating a new product: Debug information for product creation
-[2023-10-12 17:44:05,182] http-nio-8080-exec-6 com.example.demo.controller.adminController 450 INFO   - Creating a new product: Product creation completed successfully
-[2023-10-12 17:44:05,291] http-nio-8080-exec-6 com.example.demo.controller.adminController 434 ERROR  - Creating a new product: An error occurred during product creation
-[2023-10-12 17:44:05,291] http-nio-8080-exec-6 com.example.demo.controller.adminController 437 WARN   - Creating a new product: This is a warning message
-[2023-10-12 17:44:05,292] http-nio-8080-exec-6 com.example.demo.controller.adminController 440 INFO   - Creating a new product: Product creation started
-[2023-10-12 17:44:05,292] http-nio-8080-exec-6 com.example.demo.controller.adminController 443 DEBUG  - Creating a new product: Debug information for product creation
-[2023-10-12 17:44:05,292] http-nio-8080-exec-6 com.example.demo.controller.adminController 450 INFO   - Creating a new product: Product creation completed successfully
-[2023-10-12 17:44:10,255] http-nio-8080-exec-3 com.example.demo.controller.adminController 400 ERROR  - Fetching all products for display
-[2023-10-12 17:44:10,255] http-nio-8080-exec-3 com.example.demo.controller.adminController 403 WARN   - Fetching all products: This is a warning message
-[2023-10-12 17:44:10,256] http-nio-8080-exec-3 com.example.demo.controller.adminController 406 INFO   - Fetching all products: Product fetch started
-[2023-10-12 17:44:10,256] http-nio-8080-exec-3 com.example.demo.controller.adminController 409 DEBUG  - Fetching all products: Debug information for product fetch
-[2023-10-12 17:44:10,262] http-nio-8080-exec-3 com.example.demo.controller.adminController 415 INFO   - Successfully fetched all products
-[2023-10-12 17:44:10,374] http-nio-8080-exec-3 com.example.demo.controller.adminController 400 ERROR  - Fetching all products for display
-[2023-10-12 17:44:10,374] http-nio-8080-exec-3 com.example.demo.controller.adminController 403 WARN   - Fetching all products: This is a warning message
-[2023-10-12 17:44:10,375] http-nio-8080-exec-3 com.example.demo.controller.adminController 406 INFO   - Fetching all products: Product fetch started
-[2023-10-12 17:44:10,375] http-nio-8080-exec-3 com.example.demo.controller.adminController 409 DEBUG  - Fetching all products: Debug information for product fetch
-[2023-10-12 17:44:10,381] http-nio-8080-exec-3 com.example.demo.controller.adminController 415 INFO   - Successfully fetched all products
-[2023-10-12 17:44:17,658] http-nio-8080-exec-5 com.example.demo.controller.adminController 434 ERROR  - Creating a new product: An error occurred during product creation
-[2023-10-12 17:44:17,658] http-nio-8080-exec-5 com.example.demo.controller.adminController 437 WARN   - Creating a new product: This is a warning message
-[2023-10-12 17:44:17,658] http-nio-8080-exec-5 com.example.demo.controller.adminController 440 INFO   - Creating a new product: Product creation started
-[2023-10-12 17:44:17,658] http-nio-8080-exec-5 com.example.demo.controller.adminController 443 DEBUG  - Creating a new product: Debug information for product creation
-[2023-10-12 17:44:17,658] http-nio-8080-exec-5 com.example.demo.controller.adminController 450 INFO   - Creating a new product: Product creation completed successfully
-[2023-10-12 17:44:17,743] http-nio-8080-exec-5 com.example.demo.controller.adminController 434 ERROR  - Creating a new product: An error occurred during product creation
-[2023-10-12 17:44:17,743] http-nio-8080-exec-5 com.example.demo.controller.adminController 437 WARN   - Creating a new product: This is a warning message
-[2023-10-12 17:44:17,743] http-nio-8080-exec-5 com.example.demo.controller.adminController 440 INFO   - Creating a new product: Product creation started
-[2023-10-12 17:44:17,743] http-nio-8080-exec-5 com.example.demo.controller.adminController 443 DEBUG  - Creating a new product: Debug information for product creation
-[2023-10-12 17:44:17,743] http-nio-8080-exec-5 com.example.demo.controller.adminController 450 INFO   - Creating a new product: Product creation completed successfully
-[2023-10-12 17:44:30,348] http-nio-8080-exec-8 com.example.demo.controller.adminController 468 ERROR  - Saving product: An error occurred during product save
-[2023-10-12 17:44:30,348] http-nio-8080-exec-8 com.example.demo.controller.adminController 471 WARN   - Saving product: This is a warning message
-[2023-10-12 17:44:30,348] http-nio-8080-exec-8 com.example.demo.controller.adminController 474 INFO   - Saving product: Product save started
-[2023-10-12 17:44:30,348] http-nio-8080-exec-8 com.example.demo.controller.adminController 477 DEBUG  - Saving product: Debug information for product save
-[2023-10-12 17:44:30,357] http-nio-8080-exec-8 com.example.demo.controller.adminController 483 INFO   - Saving product: Product saved successfully
-[2023-10-12 17:44:30,362] http-nio-8080-exec-4 com.example.demo.controller.adminController 400 ERROR  - Fetching all products for display
-[2023-10-12 17:44:30,363] http-nio-8080-exec-4 com.example.demo.controller.adminController 403 WARN   - Fetching all products: This is a warning message
-[2023-10-12 17:44:30,363] http-nio-8080-exec-4 com.example.demo.controller.adminController 406 INFO   - Fetching all products: Product fetch started
-[2023-10-12 17:44:30,363] http-nio-8080-exec-4 com.example.demo.controller.adminController 409 DEBUG  - Fetching all products: Debug information for product fetch
-[2023-10-12 17:44:30,367] http-nio-8080-exec-4 com.example.demo.controller.adminController 415 INFO   - Successfully fetched all products
-[2023-10-12 17:44:30,459] http-nio-8080-exec-8 com.example.demo.controller.adminController 400 ERROR  - Fetching all products for display
-[2023-10-12 17:44:30,459] http-nio-8080-exec-8 com.example.demo.controller.adminController 403 WARN   - Fetching all products: This is a warning message
-[2023-10-12 17:44:30,459] http-nio-8080-exec-8 com.example.demo.controller.adminController 406 INFO   - Fetching all products: Product fetch started
-[2023-10-12 17:44:30,459] http-nio-8080-exec-8 com.example.demo.controller.adminController 409 DEBUG  - Fetching all products: Debug information for product fetch
-[2023-10-12 17:44:30,464] http-nio-8080-exec-8 com.example.demo.controller.adminController 415 INFO   - Successfully fetched all products
-[2023-10-12 17:44:38,765] http-nio-8080-exec-10 com.example.demo.controller.adminController 501 ERROR  - Editing product with ID {}: An error occurred during product editing
-[2023-10-12 17:44:38,765] http-nio-8080-exec-10 com.example.demo.controller.adminController 504 WARN   - Editing product with ID {}: This is a warning message
-[2023-10-12 17:44:38,765] http-nio-8080-exec-10 com.example.demo.controller.adminController 507 INFO   - Editing product with ID {}: Product editing started
-[2023-10-12 17:44:38,765] http-nio-8080-exec-10 com.example.demo.controller.adminController 510 DEBUG  - Editing product with ID {}: Debug information for product editing
-[2023-10-12 17:44:38,771] http-nio-8080-exec-10 com.example.demo.controller.adminController 516 INFO   - Editing product with ID {}: Product data fetched successfully
-[2023-10-12 17:44:38,865] http-nio-8080-exec-8 com.example.demo.controller.adminController 501 ERROR  - Editing product with ID {}: An error occurred during product editing
-[2023-10-12 17:44:38,866] http-nio-8080-exec-8 com.example.demo.controller.adminController 504 WARN   - Editing product with ID {}: This is a warning message
-[2023-10-12 17:44:38,866] http-nio-8080-exec-8 com.example.demo.controller.adminController 507 INFO   - Editing product with ID {}: Product editing started
-[2023-10-12 17:44:38,866] http-nio-8080-exec-8 com.example.demo.controller.adminController 510 DEBUG  - Editing product with ID {}: Debug information for product editing
-[2023-10-12 17:44:38,870] http-nio-8080-exec-8 com.example.demo.controller.adminController 516 INFO   - Editing product with ID {}: Product data fetched successfully
-[2023-10-12 17:44:43,308] http-nio-8080-exec-7 com.example.demo.controller.adminController 542 ERROR  - Updating product with ID {}: An error occurred during product update
-[2023-10-12 17:44:43,308] http-nio-8080-exec-7 com.example.demo.controller.adminController 545 WARN   - Updating product with ID {}: This is a warning message
-[2023-10-12 17:44:43,308] http-nio-8080-exec-7 com.example.demo.controller.adminController 548 INFO   - Updating product with ID {}: Product update started
-[2023-10-12 17:44:43,308] http-nio-8080-exec-7 com.example.demo.controller.adminController 551 DEBUG  - Updating product with ID {}: Debug information for product update
-[2023-10-12 17:44:43,320] http-nio-8080-exec-7 com.example.demo.controller.adminController 565 INFO   - Updating product with ID {}: Product updated successfully
-[2023-10-12 17:44:43,324] http-nio-8080-exec-6 com.example.demo.controller.adminController 400 ERROR  - Fetching all products for display
-[2023-10-12 17:44:43,324] http-nio-8080-exec-6 com.example.demo.controller.adminController 403 WARN   - Fetching all products: This is a warning message
-[2023-10-12 17:44:43,324] http-nio-8080-exec-6 com.example.demo.controller.adminController 406 INFO   - Fetching all products: Product fetch started
-[2023-10-12 17:44:43,324] http-nio-8080-exec-6 com.example.demo.controller.adminController 409 DEBUG  - Fetching all products: Debug information for product fetch
-[2023-10-12 17:44:43,327] http-nio-8080-exec-6 com.example.demo.controller.adminController 415 INFO   - Successfully fetched all products
-[2023-10-12 17:44:43,419] http-nio-8080-exec-7 com.example.demo.controller.adminController 400 ERROR  - Fetching all products for display
-[2023-10-12 17:44:43,420] http-nio-8080-exec-7 com.example.demo.controller.adminController 403 WARN   - Fetching all products: This is a warning message
-[2023-10-12 17:44:43,420] http-nio-8080-exec-7 com.example.demo.controller.adminController 406 INFO   - Fetching all products: Product fetch started
-[2023-10-12 17:44:43,420] http-nio-8080-exec-7 com.example.demo.controller.adminController 409 DEBUG  - Fetching all products: Debug information for product fetch
-[2023-10-12 17:44:43,423] http-nio-8080-exec-7 com.example.demo.controller.adminController 415 INFO   - Successfully fetched all products
-[2023-10-12 17:45:11,078] http-nio-8080-exec-2 com.example.demo.controller.adminController 159 ERROR  - Fetching all admin data for display
-[2023-10-12 17:45:11,079] http-nio-8080-exec-2 com.example.demo.controller.adminController 162 WARN   - Fetching all admin data: This is a warning message
-[2023-10-12 17:45:11,079] http-nio-8080-exec-2 com.example.demo.controller.adminController 165 INFO   - Fetching all admin data: This is an info message
-[2023-10-12 17:45:11,079] http-nio-8080-exec-2 com.example.demo.controller.adminController 168 DEBUG  - Fetching all admin data: This is a debug message
-[2023-10-12 17:45:11,086] http-nio-8080-exec-2 com.example.demo.controller.adminController 174 INFO   - Successfully fetched all admin data
-[2023-10-12 17:45:11,189] http-nio-8080-exec-7 com.example.demo.controller.adminController 159 ERROR  - Fetching all admin data for display
-[2023-10-12 17:45:11,189] http-nio-8080-exec-7 com.example.demo.controller.adminController 162 WARN   - Fetching all admin data: This is a warning message
-[2023-10-12 17:45:11,189] http-nio-8080-exec-7 com.example.demo.controller.adminController 165 INFO   - Fetching all admin data: This is an info message
-[2023-10-12 17:45:11,189] http-nio-8080-exec-7 com.example.demo.controller.adminController 168 DEBUG  - Fetching all admin data: This is a debug message
-[2023-10-12 17:45:11,200] http-nio-8080-exec-7 com.example.demo.controller.adminController 174 INFO   - Successfully fetched all admin data
-[2023-10-12 17:45:16,679] http-nio-8080-exec-3 com.example.demo.controller.adminController 400 ERROR  - Fetching all products for display
-[2023-10-12 17:45:16,679] http-nio-8080-exec-3 com.example.demo.controller.adminController 403 WARN   - Fetching all products: This is a warning message
-[2023-10-12 17:45:16,679] http-nio-8080-exec-3 com.example.demo.controller.adminController 406 INFO   - Fetching all products: Product fetch started
-[2023-10-12 17:45:16,679] http-nio-8080-exec-3 com.example.demo.controller.adminController 409 DEBUG  - Fetching all products: Debug information for product fetch
-[2023-10-12 17:45:16,686] http-nio-8080-exec-3 com.example.demo.controller.adminController 415 INFO   - Successfully fetched all products
-[2023-10-12 17:45:16,784] http-nio-8080-exec-7 com.example.demo.controller.adminController 400 ERROR  - Fetching all products for display
-[2023-10-12 17:45:16,785] http-nio-8080-exec-7 com.example.demo.controller.adminController 403 WARN   - Fetching all products: This is a warning message
-[2023-10-12 17:45:16,785] http-nio-8080-exec-7 com.example.demo.controller.adminController 406 INFO   - Fetching all products: Product fetch started
-[2023-10-12 17:45:16,785] http-nio-8080-exec-7 com.example.demo.controller.adminController 409 DEBUG  - Fetching all products: Debug information for product fetch
-[2023-10-12 17:45:16,790] http-nio-8080-exec-7 com.example.demo.controller.adminController 415 INFO   - Successfully fetched all products
-[2023-10-12 17:45:18,345] http-nio-8080-exec-4 com.example.demo.controller.adminController 159 ERROR  - Fetching all admin data for display
-[2023-10-12 17:45:18,345] http-nio-8080-exec-4 com.example.demo.controller.adminController 162 WARN   - Fetching all admin data: This is a warning message
-[2023-10-12 17:45:18,345] http-nio-8080-exec-4 com.example.demo.controller.adminController 165 INFO   - Fetching all admin data: This is an info message
-[2023-10-12 17:45:18,345] http-nio-8080-exec-4 com.example.demo.controller.adminController 168 DEBUG  - Fetching all admin data: This is a debug message
-[2023-10-12 17:45:18,351] http-nio-8080-exec-4 com.example.demo.controller.adminController 174 INFO   - Successfully fetched all admin data
-[2023-10-12 17:45:18,441] http-nio-8080-exec-7 com.example.demo.controller.adminController 159 ERROR  - Fetching all admin data for display
-[2023-10-12 17:45:18,441] http-nio-8080-exec-7 com.example.demo.controller.adminController 162 WARN   - Fetching all admin data: This is a warning message
-[2023-10-12 17:45:18,441] http-nio-8080-exec-7 com.example.demo.controller.adminController 165 INFO   - Fetching all admin data: This is an info message
-[2023-10-12 17:45:18,442] http-nio-8080-exec-7 com.example.demo.controller.adminController 168 DEBUG  - Fetching all admin data: This is a debug message
-[2023-10-12 17:45:18,450] http-nio-8080-exec-7 com.example.demo.controller.adminController 174 INFO   - Successfully fetched all admin data
-[2023-10-12 17:45:24,814] http-nio-8080-exec-10 com.example.demo.controller.adminController 353 ERROR  - Deleting admin with ID {}: An error occurred during admin deletion
-[2023-10-12 17:45:24,814] http-nio-8080-exec-10 com.example.demo.controller.adminController 356 WARN   - Deleting admin with ID {}: This is a warning message
-[2023-10-12 17:45:24,815] http-nio-8080-exec-10 com.example.demo.controller.adminController 359 INFO   - Deleting admin with ID {}: Admin deletion started
-[2023-10-12 17:45:24,815] http-nio-8080-exec-10 com.example.demo.controller.adminController 362 DEBUG  - Deleting admin with ID {}: Debug information for admin deletion
-[2023-10-12 17:45:24,834] http-nio-8080-exec-10 com.example.demo.controller.adminController 368 INFO   - Deleting admin with ID {}: Admin deleted successfully
-[2023-10-12 17:45:24,840] http-nio-8080-exec-8 com.example.demo.controller.adminController 159 ERROR  - Fetching all admin data for display
-[2023-10-12 17:45:24,840] http-nio-8080-exec-8 com.example.demo.controller.adminController 162 WARN   - Fetching all admin data: This is a warning message
-[2023-10-12 17:45:24,840] http-nio-8080-exec-8 com.example.demo.controller.adminController 165 INFO   - Fetching all admin data: This is an info message
-[2023-10-12 17:45:24,841] http-nio-8080-exec-8 com.example.demo.controller.adminController 168 DEBUG  - Fetching all admin data: This is a debug message
-[2023-10-12 17:45:24,845] http-nio-8080-exec-8 com.example.demo.controller.adminController 174 INFO   - Successfully fetched all admin data
-[2023-10-12 17:45:24,938] http-nio-8080-exec-10 com.example.demo.controller.adminController 159 ERROR  - Fetching all admin data for display
-[2023-10-12 17:45:24,938] http-nio-8080-exec-10 com.example.demo.controller.adminController 162 WARN   - Fetching all admin data: This is a warning message
-[2023-10-12 17:45:24,938] http-nio-8080-exec-10 com.example.demo.controller.adminController 165 INFO   - Fetching all admin data: This is an info message
-[2023-10-12 17:45:24,939] http-nio-8080-exec-10 com.example.demo.controller.adminController 168 DEBUG  - Fetching all admin data: This is a debug message
-[2023-10-12 17:45:24,944] http-nio-8080-exec-10 com.example.demo.controller.adminController 174 INFO   - Successfully fetched all admin data
-[2023-10-12 17:45:38,183] http-nio-8080-exec-6 com.example.demo.controller.adminController 48 ERROR  - Fetching all customers for display
-[2023-10-12 17:45:38,184] http-nio-8080-exec-6 com.example.demo.controller.adminController 51 WARN   - Fetching all customers
-[2023-10-12 17:45:38,184] http-nio-8080-exec-6 com.example.demo.controller.adminController 54 INFO   - Fetching all customers
-[2023-10-12 17:45:38,184] http-nio-8080-exec-6 com.example.demo.controller.adminController 57 DEBUG  - Fetching all customers
-[2023-10-12 17:45:38,190] http-nio-8080-exec-6 com.example.demo.controller.adminController 66 INFO   - Successfully fetched all customers
-[2023-10-12 17:45:38,278] http-nio-8080-exec-1 com.example.demo.controller.adminController 48 ERROR  - Fetching all customers for display
-[2023-10-12 17:45:38,278] http-nio-8080-exec-1 com.example.demo.controller.adminController 51 WARN   - Fetching all customers
-[2023-10-12 17:45:38,278] http-nio-8080-exec-1 com.example.demo.controller.adminController 54 INFO   - Fetching all customers
-[2023-10-12 17:45:38,278] http-nio-8080-exec-1 com.example.demo.controller.adminController 57 DEBUG  - Fetching all customers
-[2023-10-12 17:45:38,286] http-nio-8080-exec-1 com.example.demo.controller.adminController 66 INFO   - Successfully fetched all customers
-[2023-10-12 17:45:41,433] http-nio-8080-exec-4 com.example.demo.controller.adminController 159 ERROR  - Fetching all admin data for display
-[2023-10-12 17:45:41,434] http-nio-8080-exec-4 com.example.demo.controller.adminController 162 WARN   - Fetching all admin data: This is a warning message
-[2023-10-12 17:45:41,434] http-nio-8080-exec-4 com.example.demo.controller.adminController 165 INFO   - Fetching all admin data: This is an info message
-[2023-10-12 17:45:41,434] http-nio-8080-exec-4 com.example.demo.controller.adminController 168 DEBUG  - Fetching all admin data: This is a debug message
-[2023-10-12 17:45:41,440] http-nio-8080-exec-4 com.example.demo.controller.adminController 174 INFO   - Successfully fetched all admin data
-[2023-10-12 17:45:41,521] http-nio-8080-exec-1 com.example.demo.controller.adminController 159 ERROR  - Fetching all admin data for display
-[2023-10-12 17:45:41,521] http-nio-8080-exec-1 com.example.demo.controller.adminController 162 WARN   - Fetching all admin data: This is a warning message
-[2023-10-12 17:45:41,521] http-nio-8080-exec-1 com.example.demo.controller.adminController 165 INFO   - Fetching all admin data: This is an info message
-[2023-10-12 17:45:41,521] http-nio-8080-exec-1 com.example.demo.controller.adminController 168 DEBUG  - Fetching all admin data: This is a debug message
-[2023-10-12 17:45:41,528] http-nio-8080-exec-1 com.example.demo.controller.adminController 174 INFO   - Successfully fetched all admin data
-[2023-10-12 17:45:46,047] http-nio-8080-exec-2 com.example.demo.controller.adminController 400 ERROR  - Fetching all products for display
-[2023-10-12 17:45:46,048] http-nio-8080-exec-2 com.example.demo.controller.adminController 403 WARN   - Fetching all products: This is a warning message
-[2023-10-12 17:45:46,048] http-nio-8080-exec-2 com.example.demo.controller.adminController 406 INFO   - Fetching all products: Product fetch started
-[2023-10-12 17:45:46,048] http-nio-8080-exec-2 com.example.demo.controller.adminController 409 DEBUG  - Fetching all products: Debug information for product fetch
-[2023-10-12 17:45:46,054] http-nio-8080-exec-2 com.example.demo.controller.adminController 415 INFO   - Successfully fetched all products
-[2023-10-12 17:45:46,159] http-nio-8080-exec-1 com.example.demo.controller.adminController 400 ERROR  - Fetching all products for display
-[2023-10-12 17:45:46,159] http-nio-8080-exec-1 com.example.demo.controller.adminController 403 WARN   - Fetching all products: This is a warning message
-[2023-10-12 17:45:46,160] http-nio-8080-exec-1 com.example.demo.controller.adminController 406 INFO   - Fetching all products: Product fetch started
-[2023-10-12 17:45:46,160] http-nio-8080-exec-1 com.example.demo.controller.adminController 409 DEBUG  - Fetching all products: Debug information for product fetch
-[2023-10-12 17:45:46,165] http-nio-8080-exec-1 com.example.demo.controller.adminController 415 INFO   - Successfully fetched all products
-[2023-10-12 17:45:52,219] http-nio-8080-exec-9 com.example.demo.controller.adminController 48 ERROR  - Fetching all customers for display
-[2023-10-12 17:45:52,219] http-nio-8080-exec-9 com.example.demo.controller.adminController 51 WARN   - Fetching all customers
-[2023-10-12 17:45:52,219] http-nio-8080-exec-9 com.example.demo.controller.adminController 54 INFO   - Fetching all customers
-[2023-10-12 17:45:52,220] http-nio-8080-exec-9 com.example.demo.controller.adminController 57 DEBUG  - Fetching all customers
-[2023-10-12 17:45:52,226] http-nio-8080-exec-9 com.example.demo.controller.adminController 66 INFO   - Successfully fetched all customers
-[2023-10-12 17:45:52,314] http-nio-8080-exec-9 com.example.demo.controller.adminController 48 ERROR  - Fetching all customers for display
-[2023-10-12 17:45:52,314] http-nio-8080-exec-9 com.example.demo.controller.adminController 51 WARN   - Fetching all customers
-[2023-10-12 17:45:52,314] http-nio-8080-exec-9 com.example.demo.controller.adminController 54 INFO   - Fetching all customers
-[2023-10-12 17:45:52,314] http-nio-8080-exec-9 com.example.demo.controller.adminController 57 DEBUG  - Fetching all customers
-[2023-10-12 17:45:52,317] http-nio-8080-exec-9 com.example.demo.controller.adminController 66 INFO   - Successfully fetched all customers
-[2023-10-12 17:45:55,019] http-nio-8080-exec-5 com.example.demo.controller.adminController 48 ERROR  - Fetching all customers for display
-[2023-10-12 17:45:55,019] http-nio-8080-exec-5 com.example.demo.controller.adminController 51 WARN   - Fetching all customers
-[2023-10-12 17:45:55,019] http-nio-8080-exec-5 com.example.demo.controller.adminController 54 INFO   - Fetching all customers
-[2023-10-12 17:45:55,020] http-nio-8080-exec-5 com.example.demo.controller.adminController 57 DEBUG  - Fetching all customers
-[2023-10-12 17:45:55,025] http-nio-8080-exec-5 com.example.demo.controller.adminController 66 INFO   - Successfully fetched all customers
-[2023-10-12 17:45:55,117] http-nio-8080-exec-5 com.example.demo.controller.adminController 48 ERROR  - Fetching all customers for display
-[2023-10-12 17:45:55,117] http-nio-8080-exec-5 com.example.demo.controller.adminController 51 WARN   - Fetching all customers
-[2023-10-12 17:45:55,118] http-nio-8080-exec-5 com.example.demo.controller.adminController 54 INFO   - Fetching all customers
-[2023-10-12 17:45:55,118] http-nio-8080-exec-5 com.example.demo.controller.adminController 57 DEBUG  - Fetching all customers
-[2023-10-12 17:45:55,123] http-nio-8080-exec-5 com.example.demo.controller.adminController 66 INFO   - Successfully fetched all customers
-[2023-10-12 17:45:56,296] http-nio-8080-exec-8 com.example.demo.controller.adminController 400 ERROR  - Fetching all products for display
-[2023-10-12 17:45:56,296] http-nio-8080-exec-8 com.example.demo.controller.adminController 403 WARN   - Fetching all products: This is a warning message
-[2023-10-12 17:45:56,296] http-nio-8080-exec-8 com.example.demo.controller.adminController 406 INFO   - Fetching all products: Product fetch started
-[2023-10-12 17:45:56,296] http-nio-8080-exec-8 com.example.demo.controller.adminController 409 DEBUG  - Fetching all products: Debug information for product fetch
-[2023-10-12 17:45:56,302] http-nio-8080-exec-8 com.example.demo.controller.adminController 415 INFO   - Successfully fetched all products
-[2023-10-12 17:45:56,387] http-nio-8080-exec-8 com.example.demo.controller.adminController 400 ERROR  - Fetching all products for display
-[2023-10-12 17:45:56,388] http-nio-8080-exec-8 com.example.demo.controller.adminController 403 WARN   - Fetching all products: This is a warning message
-[2023-10-12 17:45:56,388] http-nio-8080-exec-8 com.example.demo.controller.adminController 406 INFO   - Fetching all products: Product fetch started
-[2023-10-12 17:45:56,388] http-nio-8080-exec-8 com.example.demo.controller.adminController 409 DEBUG  - Fetching all products: Debug information for product fetch
-[2023-10-12 17:45:56,395] http-nio-8080-exec-8 com.example.demo.controller.adminController 415 INFO   - Successfully fetched all products
-[2023-10-12 17:46:13,820] http-nio-8080-exec-10 com.example.demo.controller.adminController 434 ERROR  - Creating a new product: An error occurred during product creation
-[2023-10-12 17:46:13,820] http-nio-8080-exec-10 com.example.demo.controller.adminController 437 WARN   - Creating a new product: This is a warning message
-[2023-10-12 17:46:13,821] http-nio-8080-exec-10 com.example.demo.controller.adminController 440 INFO   - Creating a new product: Product creation started
-[2023-10-12 17:46:13,821] http-nio-8080-exec-10 com.example.demo.controller.adminController 443 DEBUG  - Creating a new product: Debug information for product creation
-[2023-10-12 17:46:13,821] http-nio-8080-exec-10 com.example.demo.controller.adminController 450 INFO   - Creating a new product: Product creation completed successfully
-[2023-10-12 17:46:13,924] http-nio-8080-exec-8 com.example.demo.controller.adminController 434 ERROR  - Creating a new product: An error occurred during product creation
-[2023-10-12 17:46:13,924] http-nio-8080-exec-8 com.example.demo.controller.adminController 437 WARN   - Creating a new product: This is a warning message
-[2023-10-12 17:46:13,925] http-nio-8080-exec-8 com.example.demo.controller.adminController 440 INFO   - Creating a new product: Product creation started
-[2023-10-12 17:46:13,925] http-nio-8080-exec-8 com.example.demo.controller.adminController 443 DEBUG  - Creating a new product: Debug information for product creation
-[2023-10-12 17:46:13,925] http-nio-8080-exec-8 com.example.demo.controller.adminController 450 INFO   - Creating a new product: Product creation completed successfully
-[2023-10-12 17:46:20,373] http-nio-8080-exec-3 com.example.demo.controller.adminController 468 ERROR  - Saving product: An error occurred during product save
-[2023-10-12 17:46:20,373] http-nio-8080-exec-3 com.example.demo.controller.adminController 471 WARN   - Saving product: This is a warning message
-[2023-10-12 17:46:20,373] http-nio-8080-exec-3 com.example.demo.controller.adminController 474 INFO   - Saving product: Product save started
-[2023-10-12 17:46:20,373] http-nio-8080-exec-3 com.example.demo.controller.adminController 477 DEBUG  - Saving product: Debug information for product save
-[2023-10-12 17:46:20,382] http-nio-8080-exec-3 com.example.demo.controller.adminController 483 INFO   - Saving product: Product saved successfully
-[2023-10-12 17:46:20,389] http-nio-8080-exec-6 com.example.demo.controller.adminController 400 ERROR  - Fetching all products for display
-[2023-10-12 17:46:20,389] http-nio-8080-exec-6 com.example.demo.controller.adminController 403 WARN   - Fetching all products: This is a warning message
-[2023-10-12 17:46:20,389] http-nio-8080-exec-6 com.example.demo.controller.adminController 406 INFO   - Fetching all products: Product fetch started
-[2023-10-12 17:46:20,389] http-nio-8080-exec-6 com.example.demo.controller.adminController 409 DEBUG  - Fetching all products: Debug information for product fetch
-[2023-10-12 17:46:20,394] http-nio-8080-exec-6 com.example.demo.controller.adminController 415 INFO   - Successfully fetched all products
-[2023-10-12 17:46:20,494] http-nio-8080-exec-3 com.example.demo.controller.adminController 400 ERROR  - Fetching all products for display
-[2023-10-12 17:46:20,496] http-nio-8080-exec-3 com.example.demo.controller.adminController 403 WARN   - Fetching all products: This is a warning message
-[2023-10-12 17:46:20,496] http-nio-8080-exec-3 com.example.demo.controller.adminController 406 INFO   - Fetching all products: Product fetch started
-[2023-10-12 17:46:20,499] http-nio-8080-exec-3 com.example.demo.controller.adminController 409 DEBUG  - Fetching all products: Debug information for product fetch
-[2023-10-12 17:46:20,505] http-nio-8080-exec-3 com.example.demo.controller.adminController 415 INFO   - Successfully fetched all products
-[2023-10-12 17:46:36,102] http-nio-8080-exec-9 com.example.demo.controller.adminController 400 ERROR  - Fetching all products for display
-[2023-10-12 17:46:36,102] http-nio-8080-exec-9 com.example.demo.controller.adminController 403 WARN   - Fetching all products: This is a warning message
-[2023-10-12 17:46:36,102] http-nio-8080-exec-9 com.example.demo.controller.adminController 406 INFO   - Fetching all products: Product fetch started
-[2023-10-12 17:46:36,103] http-nio-8080-exec-9 com.example.demo.controller.adminController 409 DEBUG  - Fetching all products: Debug information for product fetch
-[2023-10-12 17:46:36,105] http-nio-8080-exec-9 com.example.demo.controller.adminController 415 INFO   - Successfully fetched all products
-[2023-10-12 17:46:36,179] http-nio-8080-exec-9 com.example.demo.controller.adminController 400 ERROR  - Fetching all products for display
-[2023-10-12 17:46:36,179] http-nio-8080-exec-9 com.example.demo.controller.adminController 403 WARN   - Fetching all products: This is a warning message
-[2023-10-12 17:46:36,179] http-nio-8080-exec-9 com.example.demo.controller.adminController 406 INFO   - Fetching all products: Product fetch started
-[2023-10-12 17:46:36,179] http-nio-8080-exec-9 com.example.demo.controller.adminController 409 DEBUG  - Fetching all products: Debug information for product fetch
-[2023-10-12 17:46:36,182] http-nio-8080-exec-9 com.example.demo.controller.adminController 415 INFO   - Successfully fetched all products
+[2023-10-15 14:34:38,892] http-nio-8080-exec-4 com.example.demo.controller.adminController 393 ERROR  - Fetching all products for display
+[2023-10-15 14:34:38,896] http-nio-8080-exec-4 com.example.demo.controller.adminController 396 WARN   - Fetching all products: This is a warning message
+[2023-10-15 14:34:38,896] http-nio-8080-exec-4 com.example.demo.controller.adminController 399 INFO   - Fetching all products: Product fetch started
+[2023-10-15 14:34:38,896] http-nio-8080-exec-4 com.example.demo.controller.adminController 402 DEBUG  - Fetching all products: Debug information for product fetch
+[2023-10-15 14:34:38,909] http-nio-8080-exec-4 com.example.demo.controller.adminController 408 INFO   - Successfully fetched all products
+[2023-10-15 14:34:39,102] http-nio-8080-exec-6 com.example.demo.controller.adminController 393 ERROR  - Fetching all products for display
+[2023-10-15 14:34:39,102] http-nio-8080-exec-6 com.example.demo.controller.adminController 396 WARN   - Fetching all products: This is a warning message
+[2023-10-15 14:34:39,102] http-nio-8080-exec-6 com.example.demo.controller.adminController 399 INFO   - Fetching all products: Product fetch started
+[2023-10-15 14:34:39,103] http-nio-8080-exec-6 com.example.demo.controller.adminController 402 DEBUG  - Fetching all products: Debug information for product fetch
+[2023-10-15 14:34:39,107] http-nio-8080-exec-6 com.example.demo.controller.adminController 408 INFO   - Successfully fetched all products
+[2023-10-15 14:34:48,563] http-nio-8080-exec-10 com.example.demo.controller.adminController 494 ERROR  - Editing product with ID {}: An error occurred during product editing
+[2023-10-15 14:34:48,564] http-nio-8080-exec-10 com.example.demo.controller.adminController 497 WARN   - Editing product with ID {}: This is a warning message
+[2023-10-15 14:34:48,564] http-nio-8080-exec-10 com.example.demo.controller.adminController 500 INFO   - Editing product with ID {}: Product editing started
+[2023-10-15 14:34:48,565] http-nio-8080-exec-10 com.example.demo.controller.adminController 503 DEBUG  - Editing product with ID {}: Debug information for product editing
+[2023-10-15 14:34:48,572] http-nio-8080-exec-10 com.example.demo.controller.adminController 509 INFO   - Editing product with ID {}: Product data fetched successfully
+[2023-10-15 14:34:48,755] http-nio-8080-exec-6 com.example.demo.controller.adminController 494 ERROR  - Editing product with ID {}: An error occurred during product editing
+[2023-10-15 14:34:48,756] http-nio-8080-exec-6 com.example.demo.controller.adminController 497 WARN   - Editing product with ID {}: This is a warning message
+[2023-10-15 14:34:48,756] http-nio-8080-exec-6 com.example.demo.controller.adminController 500 INFO   - Editing product with ID {}: Product editing started
+[2023-10-15 14:34:48,757] http-nio-8080-exec-6 com.example.demo.controller.adminController 503 DEBUG  - Editing product with ID {}: Debug information for product editing
+[2023-10-15 14:34:48,761] http-nio-8080-exec-6 com.example.demo.controller.adminController 509 INFO   - Editing product with ID {}: Product data fetched successfully
+[2023-10-15 14:34:54,852] http-nio-8080-exec-7 com.example.demo.controller.adminController 535 ERROR  - Updating product with ID {}: An error occurred during product update
+[2023-10-15 14:34:54,852] http-nio-8080-exec-7 com.example.demo.controller.adminController 538 WARN   - Updating product with ID {}: This is a warning message
+[2023-10-15 14:34:54,853] http-nio-8080-exec-7 com.example.demo.controller.adminController 541 INFO   - Updating product with ID {}: Product update started
+[2023-10-15 14:34:54,853] http-nio-8080-exec-7 com.example.demo.controller.adminController 544 DEBUG  - Updating product with ID {}: Debug information for product update
+[2023-10-15 14:34:54,868] http-nio-8080-exec-7 com.example.demo.controller.adminController 558 INFO   - Updating product with ID {}: Product updated successfully
+[2023-10-15 14:34:54,874] http-nio-8080-exec-6 com.example.demo.controller.adminController 393 ERROR  - Fetching all products for display
+[2023-10-15 14:34:54,875] http-nio-8080-exec-6 com.example.demo.controller.adminController 396 WARN   - Fetching all products: This is a warning message
+[2023-10-15 14:34:54,875] http-nio-8080-exec-6 com.example.demo.controller.adminController 399 INFO   - Fetching all products: Product fetch started
+[2023-10-15 14:34:54,875] http-nio-8080-exec-6 com.example.demo.controller.adminController 402 DEBUG  - Fetching all products: Debug information for product fetch
+[2023-10-15 14:34:54,881] http-nio-8080-exec-6 com.example.demo.controller.adminController 408 INFO   - Successfully fetched all products
+[2023-10-15 14:34:55,022] http-nio-8080-exec-10 com.example.demo.controller.adminController 393 ERROR  - Fetching all products for display
+[2023-10-15 14:34:55,023] http-nio-8080-exec-10 com.example.demo.controller.adminController 396 WARN   - Fetching all products: This is a warning message
+[2023-10-15 14:34:55,023] http-nio-8080-exec-10 com.example.demo.controller.adminController 399 INFO   - Fetching all products: Product fetch started
+[2023-10-15 14:34:55,023] http-nio-8080-exec-10 com.example.demo.controller.adminController 402 DEBUG  - Fetching all products: Debug information for product fetch
+[2023-10-15 14:34:55,031] http-nio-8080-exec-10 com.example.demo.controller.adminController 408 INFO   - Successfully fetched all products
+[2023-10-15 14:35:04,005] http-nio-8080-exec-4 com.example.demo.controller.adminController 159 ERROR  - Fetching all admin data for display
+[2023-10-15 14:35:04,006] http-nio-8080-exec-4 com.example.demo.controller.adminController 162 WARN   - Fetching all admin data: This is a warning message
+[2023-10-15 14:35:04,006] http-nio-8080-exec-4 com.example.demo.controller.adminController 165 INFO   - Fetching all admin data: This is an info message
+[2023-10-15 14:35:04,006] http-nio-8080-exec-4 com.example.demo.controller.adminController 168 DEBUG  - Fetching all admin data: This is a debug message
+[2023-10-15 14:35:04,020] http-nio-8080-exec-4 com.example.demo.controller.adminController 174 INFO   - Successfully fetched all admin data
+[2023-10-15 14:35:04,169] http-nio-8080-exec-3 com.example.demo.controller.adminController 159 ERROR  - Fetching all admin data for display
+[2023-10-15 14:35:04,169] http-nio-8080-exec-3 com.example.demo.controller.adminController 162 WARN   - Fetching all admin data: This is a warning message
+[2023-10-15 14:35:04,169] http-nio-8080-exec-3 com.example.demo.controller.adminController 165 INFO   - Fetching all admin data: This is an info message
+[2023-10-15 14:35:04,170] http-nio-8080-exec-3 com.example.demo.controller.adminController 168 DEBUG  - Fetching all admin data: This is a debug message
+[2023-10-15 14:35:04,176] http-nio-8080-exec-3 com.example.demo.controller.adminController 174 INFO   - Successfully fetched all admin data
+[2023-10-15 14:35:05,707] http-nio-8080-exec-4 com.example.demo.controller.adminController 193 ERROR  - Creating a new admin: An error occurred during admin creation
+[2023-10-15 14:35:05,707] http-nio-8080-exec-4 com.example.demo.controller.adminController 196 WARN   - Creating a new admin: This is a warning message
+[2023-10-15 14:35:05,707] http-nio-8080-exec-4 com.example.demo.controller.adminController 199 INFO   - Creating a new admin: Admin creation started
+[2023-10-15 14:35:05,708] http-nio-8080-exec-4 com.example.demo.controller.adminController 202 DEBUG  - Creating a new admin: Debug information for admin creation
+[2023-10-15 14:35:05,708] http-nio-8080-exec-4 com.example.demo.controller.adminController 209 INFO   - Creating a new admin: Admin creation completed successfully
+[2023-10-15 14:35:05,859] http-nio-8080-exec-3 com.example.demo.controller.adminController 193 ERROR  - Creating a new admin: An error occurred during admin creation
+[2023-10-15 14:35:05,859] http-nio-8080-exec-3 com.example.demo.controller.adminController 196 WARN   - Creating a new admin: This is a warning message
+[2023-10-15 14:35:05,860] http-nio-8080-exec-3 com.example.demo.controller.adminController 199 INFO   - Creating a new admin: Admin creation started
+[2023-10-15 14:35:05,860] http-nio-8080-exec-3 com.example.demo.controller.adminController 202 DEBUG  - Creating a new admin: Debug information for admin creation
+[2023-10-15 14:35:05,861] http-nio-8080-exec-3 com.example.demo.controller.adminController 209 INFO   - Creating a new admin: Admin creation completed successfully
+[2023-10-15 14:35:15,744] http-nio-8080-exec-5 com.example.demo.controller.adminController 159 ERROR  - Fetching all admin data for display
+[2023-10-15 14:35:15,745] http-nio-8080-exec-5 com.example.demo.controller.adminController 162 WARN   - Fetching all admin data: This is a warning message
+[2023-10-15 14:35:15,745] http-nio-8080-exec-5 com.example.demo.controller.adminController 165 INFO   - Fetching all admin data: This is an info message
+[2023-10-15 14:35:15,745] http-nio-8080-exec-5 com.example.demo.controller.adminController 168 DEBUG  - Fetching all admin data: This is a debug message
+[2023-10-15 14:35:15,752] http-nio-8080-exec-5 com.example.demo.controller.adminController 174 INFO   - Successfully fetched all admin data
+[2023-10-15 14:35:15,893] http-nio-8080-exec-7 com.example.demo.controller.adminController 159 ERROR  - Fetching all admin data for display
+[2023-10-15 14:35:15,893] http-nio-8080-exec-7 com.example.demo.controller.adminController 162 WARN   - Fetching all admin data: This is a warning message
+[2023-10-15 14:35:15,894] http-nio-8080-exec-7 com.example.demo.controller.adminController 165 INFO   - Fetching all admin data: This is an info message
+[2023-10-15 14:35:15,894] http-nio-8080-exec-7 com.example.demo.controller.adminController 168 DEBUG  - Fetching all admin data: This is a debug message
+[2023-10-15 14:35:15,899] http-nio-8080-exec-7 com.example.demo.controller.adminController 174 INFO   - Successfully fetched all admin data
+[2023-10-15 14:35:25,486] http-nio-8080-exec-6 com.example.demo.controller.adminController 48 ERROR  - Fetching all customers for display
+[2023-10-15 14:35:25,487] http-nio-8080-exec-6 com.example.demo.controller.adminController 51 WARN   - Fetching all customers
+[2023-10-15 14:35:25,487] http-nio-8080-exec-6 com.example.demo.controller.adminController 54 INFO   - Fetching all customers
+[2023-10-15 14:35:25,487] http-nio-8080-exec-6 com.example.demo.controller.adminController 57 DEBUG  - Fetching all customers
+[2023-10-15 14:35:25,496] http-nio-8080-exec-6 com.example.demo.controller.adminController 66 INFO   - Successfully fetched all customers
+[2023-10-15 14:35:25,625] http-nio-8080-exec-2 com.example.demo.controller.adminController 48 ERROR  - Fetching all customers for display
+[2023-10-15 14:35:25,625] http-nio-8080-exec-2 com.example.demo.controller.adminController 51 WARN   - Fetching all customers
+[2023-10-15 14:35:25,626] http-nio-8080-exec-2 com.example.demo.controller.adminController 54 INFO   - Fetching all customers
+[2023-10-15 14:35:25,626] http-nio-8080-exec-2 com.example.demo.controller.adminController 57 DEBUG  - Fetching all customers
+[2023-10-15 14:35:25,634] http-nio-8080-exec-2 com.example.demo.controller.adminController 66 INFO   - Successfully fetched all customers
+[2023-10-15 14:35:27,670] http-nio-8080-exec-5 com.example.demo.controller.adminController 159 ERROR  - Fetching all admin data for display
+[2023-10-15 14:35:27,671] http-nio-8080-exec-5 com.example.demo.controller.adminController 162 WARN   - Fetching all admin data: This is a warning message
+[2023-10-15 14:35:27,671] http-nio-8080-exec-5 com.example.demo.controller.adminController 165 INFO   - Fetching all admin data: This is an info message
+[2023-10-15 14:35:27,672] http-nio-8080-exec-5 com.example.demo.controller.adminController 168 DEBUG  - Fetching all admin data: This is a debug message
+[2023-10-15 14:35:27,681] http-nio-8080-exec-5 com.example.demo.controller.adminController 174 INFO   - Successfully fetched all admin data
+[2023-10-15 14:35:27,794] http-nio-8080-exec-2 com.example.demo.controller.adminController 159 ERROR  - Fetching all admin data for display
+[2023-10-15 14:35:27,795] http-nio-8080-exec-2 com.example.demo.controller.adminController 162 WARN   - Fetching all admin data: This is a warning message
+[2023-10-15 14:35:27,795] http-nio-8080-exec-2 com.example.demo.controller.adminController 165 INFO   - Fetching all admin data: This is an info message
+[2023-10-15 14:35:27,795] http-nio-8080-exec-2 com.example.demo.controller.adminController 168 DEBUG  - Fetching all admin data: This is a debug message
+[2023-10-15 14:35:27,801] http-nio-8080-exec-2 com.example.demo.controller.adminController 174 INFO   - Successfully fetched all admin data
+[2023-10-15 14:45:12,855] http-nio-8080-exec-10 com.example.demo.controller.adminController 393 ERROR  - Fetching all products for display
+[2023-10-15 14:45:12,856] http-nio-8080-exec-10 com.example.demo.controller.adminController 396 WARN   - Fetching all products: This is a warning message
+[2023-10-15 14:45:12,856] http-nio-8080-exec-10 com.example.demo.controller.adminController 399 INFO   - Fetching all products: Product fetch started
+[2023-10-15 14:45:12,856] http-nio-8080-exec-10 com.example.demo.controller.adminController 402 DEBUG  - Fetching all products: Debug information for product fetch
+[2023-10-15 14:45:12,863] http-nio-8080-exec-10 com.example.demo.controller.adminController 408 INFO   - Successfully fetched all products
+[2023-10-15 14:45:13,134] http-nio-8080-exec-10 com.example.demo.controller.adminController 393 ERROR  - Fetching all products for display
+[2023-10-15 14:45:13,134] http-nio-8080-exec-10 com.example.demo.controller.adminController 396 WARN   - Fetching all products: This is a warning message
+[2023-10-15 14:45:13,134] http-nio-8080-exec-10 com.example.demo.controller.adminController 399 INFO   - Fetching all products: Product fetch started
+[2023-10-15 14:45:13,135] http-nio-8080-exec-10 com.example.demo.controller.adminController 402 DEBUG  - Fetching all products: Debug information for product fetch
+[2023-10-15 14:45:13,143] http-nio-8080-exec-10 com.example.demo.controller.adminController 408 INFO   - Successfully fetched all products
+[2023-10-15 14:45:18,349] http-nio-8080-exec-5 com.example.demo.controller.adminController 159 ERROR  - Fetching all admin data for display
+[2023-10-15 14:45:18,350] http-nio-8080-exec-5 com.example.demo.controller.adminController 162 WARN   - Fetching all admin data: This is a warning message
+[2023-10-15 14:45:18,350] http-nio-8080-exec-5 com.example.demo.controller.adminController 165 INFO   - Fetching all admin data: This is an info message
+[2023-10-15 14:45:18,350] http-nio-8080-exec-5 com.example.demo.controller.adminController 168 DEBUG  - Fetching all admin data: This is a debug message
+[2023-10-15 14:45:18,359] http-nio-8080-exec-5 com.example.demo.controller.adminController 174 INFO   - Successfully fetched all admin data
+[2023-10-15 14:45:18,485] http-nio-8080-exec-10 com.example.demo.controller.adminController 159 ERROR  - Fetching all admin data for display
+[2023-10-15 14:45:18,486] http-nio-8080-exec-10 com.example.demo.controller.adminController 162 WARN   - Fetching all admin data: This is a warning message
+[2023-10-15 14:45:18,486] http-nio-8080-exec-10 com.example.demo.controller.adminController 165 INFO   - Fetching all admin data: This is an info message
+[2023-10-15 14:45:18,486] http-nio-8080-exec-10 com.example.demo.controller.adminController 168 DEBUG  - Fetching all admin data: This is a debug message
+[2023-10-15 14:45:18,493] http-nio-8080-exec-10 com.example.demo.controller.adminController 174 INFO   - Successfully fetched all admin data
+[2023-10-15 14:45:26,583] http-nio-8080-exec-7 com.example.demo.controller.adminController 393 ERROR  - Fetching all products for display
+[2023-10-15 14:45:26,583] http-nio-8080-exec-7 com.example.demo.controller.adminController 396 WARN   - Fetching all products: This is a warning message
+[2023-10-15 14:45:26,584] http-nio-8080-exec-7 com.example.demo.controller.adminController 399 INFO   - Fetching all products: Product fetch started
+[2023-10-15 14:45:26,584] http-nio-8080-exec-7 com.example.demo.controller.adminController 402 DEBUG  - Fetching all products: Debug information for product fetch
+[2023-10-15 14:45:26,592] http-nio-8080-exec-7 com.example.demo.controller.adminController 408 INFO   - Successfully fetched all products
+[2023-10-15 14:45:26,723] http-nio-8080-exec-10 com.example.demo.controller.adminController 393 ERROR  - Fetching all products for display
+[2023-10-15 14:45:26,724] http-nio-8080-exec-10 com.example.demo.controller.adminController 396 WARN   - Fetching all products: This is a warning message
+[2023-10-15 14:45:26,724] http-nio-8080-exec-10 com.example.demo.controller.adminController 399 INFO   - Fetching all products: Product fetch started
+[2023-10-15 14:45:26,724] http-nio-8080-exec-10 com.example.demo.controller.adminController 402 DEBUG  - Fetching all products: Debug information for product fetch
+[2023-10-15 14:45:26,731] http-nio-8080-exec-10 com.example.demo.controller.adminController 408 INFO   - Successfully fetched all products
+[2023-10-15 14:45:28,254] http-nio-8080-exec-9 com.example.demo.controller.adminController 159 ERROR  - Fetching all admin data for display
+[2023-10-15 14:45:28,255] http-nio-8080-exec-9 com.example.demo.controller.adminController 162 WARN   - Fetching all admin data: This is a warning message
+[2023-10-15 14:45:28,255] http-nio-8080-exec-9 com.example.demo.controller.adminController 165 INFO   - Fetching all admin data: This is an info message
+[2023-10-15 14:45:28,255] http-nio-8080-exec-9 com.example.demo.controller.adminController 168 DEBUG  - Fetching all admin data: This is a debug message
+[2023-10-15 14:45:28,263] http-nio-8080-exec-9 com.example.demo.controller.adminController 174 INFO   - Successfully fetched all admin data
+[2023-10-15 14:45:28,385] http-nio-8080-exec-9 com.example.demo.controller.adminController 159 ERROR  - Fetching all admin data for display
+[2023-10-15 14:45:28,386] http-nio-8080-exec-9 com.example.demo.controller.adminController 162 WARN   - Fetching all admin data: This is a warning message
+[2023-10-15 14:45:28,386] http-nio-8080-exec-9 com.example.demo.controller.adminController 165 INFO   - Fetching all admin data: This is an info message
+[2023-10-15 14:45:28,386] http-nio-8080-exec-9 com.example.demo.controller.adminController 168 DEBUG  - Fetching all admin data: This is a debug message
+[2023-10-15 14:45:28,391] http-nio-8080-exec-9 com.example.demo.controller.adminController 174 INFO   - Successfully fetched all admin data
+[2023-10-15 14:45:29,877] http-nio-8080-exec-1 com.example.demo.controller.adminController 48 ERROR  - Fetching all customers for display
+[2023-10-15 14:45:29,877] http-nio-8080-exec-1 com.example.demo.controller.adminController 51 WARN   - Fetching all customers
+[2023-10-15 14:45:29,877] http-nio-8080-exec-1 com.example.demo.controller.adminController 54 INFO   - Fetching all customers
+[2023-10-15 14:45:29,878] http-nio-8080-exec-1 com.example.demo.controller.adminController 57 DEBUG  - Fetching all customers
+[2023-10-15 14:45:29,886] http-nio-8080-exec-1 com.example.demo.controller.adminController 66 INFO   - Successfully fetched all customers
+[2023-10-15 14:45:30,001] http-nio-8080-exec-9 com.example.demo.controller.adminController 48 ERROR  - Fetching all customers for display
+[2023-10-15 14:45:30,001] http-nio-8080-exec-9 com.example.demo.controller.adminController 51 WARN   - Fetching all customers
+[2023-10-15 14:45:30,001] http-nio-8080-exec-9 com.example.demo.controller.adminController 54 INFO   - Fetching all customers
+[2023-10-15 14:45:30,002] http-nio-8080-exec-9 com.example.demo.controller.adminController 57 DEBUG  - Fetching all customers
+[2023-10-15 14:45:30,008] http-nio-8080-exec-9 com.example.demo.controller.adminController 66 INFO   - Successfully fetched all customers
+[2023-10-15 14:45:31,316] http-nio-8080-exec-5 com.example.demo.controller.adminController 159 ERROR  - Fetching all admin data for display
+[2023-10-15 14:45:31,316] http-nio-8080-exec-5 com.example.demo.controller.adminController 162 WARN   - Fetching all admin data: This is a warning message
+[2023-10-15 14:45:31,317] http-nio-8080-exec-5 com.example.demo.controller.adminController 165 INFO   - Fetching all admin data: This is an info message
+[2023-10-15 14:45:31,317] http-nio-8080-exec-5 com.example.demo.controller.adminController 168 DEBUG  - Fetching all admin data: This is a debug message
+[2023-10-15 14:45:31,324] http-nio-8080-exec-5 com.example.demo.controller.adminController 174 INFO   - Successfully fetched all admin data
+[2023-10-15 14:45:31,443] http-nio-8080-exec-5 com.example.demo.controller.adminController 159 ERROR  - Fetching all admin data for display
+[2023-10-15 14:45:31,444] http-nio-8080-exec-5 com.example.demo.controller.adminController 162 WARN   - Fetching all admin data: This is a warning message
+[2023-10-15 14:45:31,444] http-nio-8080-exec-5 com.example.demo.controller.adminController 165 INFO   - Fetching all admin data: This is an info message
+[2023-10-15 14:45:31,444] http-nio-8080-exec-5 com.example.demo.controller.adminController 168 DEBUG  - Fetching all admin data: This is a debug message
+[2023-10-15 14:45:31,448] http-nio-8080-exec-5 com.example.demo.controller.adminController 174 INFO   - Successfully fetched all admin data
+[2023-10-15 14:45:45,147] http-nio-8080-exec-4 com.example.demo.controller.adminController 48 ERROR  - Fetching all customers for display
+[2023-10-15 14:45:45,147] http-nio-8080-exec-4 com.example.demo.controller.adminController 51 WARN   - Fetching all customers
+[2023-10-15 14:45:45,147] http-nio-8080-exec-4 com.example.demo.controller.adminController 54 INFO   - Fetching all customers
+[2023-10-15 14:45:45,148] http-nio-8080-exec-4 com.example.demo.controller.adminController 57 DEBUG  - Fetching all customers
+[2023-10-15 14:45:45,156] http-nio-8080-exec-4 com.example.demo.controller.adminController 66 INFO   - Successfully fetched all customers
+[2023-10-15 14:45:45,270] http-nio-8080-exec-4 com.example.demo.controller.adminController 48 ERROR  - Fetching all customers for display
+[2023-10-15 14:45:45,271] http-nio-8080-exec-4 com.example.demo.controller.adminController 51 WARN   - Fetching all customers
+[2023-10-15 14:45:45,272] http-nio-8080-exec-4 com.example.demo.controller.adminController 54 INFO   - Fetching all customers
+[2023-10-15 14:45:45,273] http-nio-8080-exec-4 com.example.demo.controller.adminController 57 DEBUG  - Fetching all customers
+[2023-10-15 14:45:45,278] http-nio-8080-exec-4 com.example.demo.controller.adminController 66 INFO   - Successfully fetched all customers
+[2023-10-15 14:45:47,210] http-nio-8080-exec-8 com.example.demo.controller.adminController 85 ERROR  - Fetching all customers for display
+[2023-10-15 14:45:47,211] http-nio-8080-exec-8 com.example.demo.controller.adminController 88 WARN   - Fetching all customers
+[2023-10-15 14:45:47,211] http-nio-8080-exec-8 com.example.demo.controller.adminController 91 INFO   - Fetching all customers
+[2023-10-15 14:45:47,211] http-nio-8080-exec-8 com.example.demo.controller.adminController 94 DEBUG  - Fetching all customers
+[2023-10-15 14:45:47,212] http-nio-8080-exec-8 com.example.demo.controller.adminController 103 INFO   - Successfully fetched all customers
+[2023-10-15 14:45:47,345] http-nio-8080-exec-8 com.example.demo.controller.adminController 85 ERROR  - Fetching all customers for display
+[2023-10-15 14:45:47,345] http-nio-8080-exec-8 com.example.demo.controller.adminController 88 WARN   - Fetching all customers
+[2023-10-15 14:45:47,346] http-nio-8080-exec-8 com.example.demo.controller.adminController 91 INFO   - Fetching all customers
+[2023-10-15 14:45:47,346] http-nio-8080-exec-8 com.example.demo.controller.adminController 94 DEBUG  - Fetching all customers
+[2023-10-15 14:45:47,346] http-nio-8080-exec-8 com.example.demo.controller.adminController 103 INFO   - Successfully fetched all customers
+[2023-10-15 14:45:53,428] http-nio-8080-exec-2 com.example.demo.controller.adminController 159 ERROR  - Fetching all admin data for display
+[2023-10-15 14:45:53,428] http-nio-8080-exec-2 com.example.demo.controller.adminController 162 WARN   - Fetching all admin data: This is a warning message
+[2023-10-15 14:45:53,428] http-nio-8080-exec-2 com.example.demo.controller.adminController 165 INFO   - Fetching all admin data: This is an info message
+[2023-10-15 14:45:53,429] http-nio-8080-exec-2 com.example.demo.controller.adminController 168 DEBUG  - Fetching all admin data: This is a debug message
+[2023-10-15 14:45:53,437] http-nio-8080-exec-2 com.example.demo.controller.adminController 174 INFO   - Successfully fetched all admin data
+[2023-10-15 14:45:53,552] http-nio-8080-exec-8 com.example.demo.controller.adminController 159 ERROR  - Fetching all admin data for display
+[2023-10-15 14:45:53,552] http-nio-8080-exec-8 com.example.demo.controller.adminController 162 WARN   - Fetching all admin data: This is a warning message
+[2023-10-15 14:45:53,552] http-nio-8080-exec-8 com.example.demo.controller.adminController 165 INFO   - Fetching all admin data: This is an info message
+[2023-10-15 14:45:53,552] http-nio-8080-exec-8 com.example.demo.controller.adminController 168 DEBUG  - Fetching all admin data: This is a debug message
+[2023-10-15 14:45:53,558] http-nio-8080-exec-8 com.example.demo.controller.adminController 174 INFO   - Successfully fetched all admin data
+[2023-10-15 14:45:56,407] http-nio-8080-exec-4 com.example.demo.controller.adminController 353 ERROR  - Deleting admin with ID {}: An error occurred during admin deletion
+[2023-10-15 14:45:56,407] http-nio-8080-exec-4 com.example.demo.controller.adminController 356 WARN   - Deleting admin with ID {}: This is a warning message
+[2023-10-15 14:45:56,407] http-nio-8080-exec-4 com.example.demo.controller.adminController 359 INFO   - Deleting admin with ID {}: Admin deletion started
+[2023-10-15 14:45:56,407] http-nio-8080-exec-4 com.example.demo.controller.adminController 362 DEBUG  - Deleting admin with ID {}: Debug information for admin deletion
+[2023-10-15 14:45:56,430] http-nio-8080-exec-4 com.example.demo.controller.adminController 368 INFO   - Deleting admin with ID {}: Admin deleted successfully
+[2023-10-15 14:45:56,434] http-nio-8080-exec-10 com.example.demo.controller.adminController 159 ERROR  - Fetching all admin data for display
+[2023-10-15 14:45:56,435] http-nio-8080-exec-10 com.example.demo.controller.adminController 162 WARN   - Fetching all admin data: This is a warning message
+[2023-10-15 14:45:56,435] http-nio-8080-exec-10 com.example.demo.controller.adminController 165 INFO   - Fetching all admin data: This is an info message
+[2023-10-15 14:45:56,435] http-nio-8080-exec-10 com.example.demo.controller.adminController 168 DEBUG  - Fetching all admin data: This is a debug message
+[2023-10-15 14:45:56,440] http-nio-8080-exec-10 com.example.demo.controller.adminController 174 INFO   - Successfully fetched all admin data
+[2023-10-15 14:45:56,567] http-nio-8080-exec-4 com.example.demo.controller.adminController 159 ERROR  - Fetching all admin data for display
+[2023-10-15 14:45:56,567] http-nio-8080-exec-4 com.example.demo.controller.adminController 162 WARN   - Fetching all admin data: This is a warning message
+[2023-10-15 14:45:56,567] http-nio-8080-exec-4 com.example.demo.controller.adminController 165 INFO   - Fetching all admin data: This is an info message
+[2023-10-15 14:45:56,567] http-nio-8080-exec-4 com.example.demo.controller.adminController 168 DEBUG  - Fetching all admin data: This is a debug message
+[2023-10-15 14:45:56,575] http-nio-8080-exec-4 com.example.demo.controller.adminController 174 INFO   - Successfully fetched all admin data
+[2023-10-15 14:46:23,787] http-nio-8080-exec-4 com.example.demo.controller.adminController 393 ERROR  - Fetching all products for display
+[2023-10-15 14:46:23,788] http-nio-8080-exec-4 com.example.demo.controller.adminController 396 WARN   - Fetching all products: This is a warning message
+[2023-10-15 14:46:23,788] http-nio-8080-exec-4 com.example.demo.controller.adminController 399 INFO   - Fetching all products: Product fetch started
+[2023-10-15 14:46:23,788] http-nio-8080-exec-4 com.example.demo.controller.adminController 402 DEBUG  - Fetching all products: Debug information for product fetch
+[2023-10-15 14:46:23,792] http-nio-8080-exec-4 com.example.demo.controller.adminController 408 INFO   - Successfully fetched all products
+[2023-10-15 14:46:23,997] http-nio-8080-exec-4 com.example.demo.controller.adminController 393 ERROR  - Fetching all products for display
+[2023-10-15 14:46:23,997] http-nio-8080-exec-4 com.example.demo.controller.adminController 396 WARN   - Fetching all products: This is a warning message
+[2023-10-15 14:46:23,997] http-nio-8080-exec-4 com.example.demo.controller.adminController 399 INFO   - Fetching all products: Product fetch started
+[2023-10-15 14:46:23,997] http-nio-8080-exec-4 com.example.demo.controller.adminController 402 DEBUG  - Fetching all products: Debug information for product fetch
+[2023-10-15 14:46:24,003] http-nio-8080-exec-4 com.example.demo.controller.adminController 408 INFO   - Successfully fetched all products
+[2023-10-15 14:46:29,256] http-nio-8080-exec-8 com.example.demo.controller.adminController 159 ERROR  - Fetching all admin data for display
+[2023-10-15 14:46:29,256] http-nio-8080-exec-8 com.example.demo.controller.adminController 162 WARN   - Fetching all admin data: This is a warning message
+[2023-10-15 14:46:29,257] http-nio-8080-exec-8 com.example.demo.controller.adminController 165 INFO   - Fetching all admin data: This is an info message
+[2023-10-15 14:46:29,257] http-nio-8080-exec-8 com.example.demo.controller.adminController 168 DEBUG  - Fetching all admin data: This is a debug message
+[2023-10-15 14:46:29,265] http-nio-8080-exec-8 com.example.demo.controller.adminController 174 INFO   - Successfully fetched all admin data
+[2023-10-15 14:46:29,382] http-nio-8080-exec-8 com.example.demo.controller.adminController 159 ERROR  - Fetching all admin data for display
+[2023-10-15 14:46:29,383] http-nio-8080-exec-8 com.example.demo.controller.adminController 162 WARN   - Fetching all admin data: This is a warning message
+[2023-10-15 14:46:29,383] http-nio-8080-exec-8 com.example.demo.controller.adminController 165 INFO   - Fetching all admin data: This is an info message
+[2023-10-15 14:46:29,383] http-nio-8080-exec-8 com.example.demo.controller.adminController 168 DEBUG  - Fetching all admin data: This is a debug message
+[2023-10-15 14:46:29,389] http-nio-8080-exec-8 com.example.demo.controller.adminController 174 INFO   - Successfully fetched all admin data
+[2023-10-15 14:53:02,246] http-nio-8080-exec-7 com.example.demo.controller.adminController 393 ERROR  - Fetching all products for display
+[2023-10-15 14:53:02,246] http-nio-8080-exec-7 com.example.demo.controller.adminController 396 WARN   - Fetching all products: This is a warning message
+[2023-10-15 14:53:02,246] http-nio-8080-exec-7 com.example.demo.controller.adminController 399 INFO   - Fetching all products: Product fetch started
+[2023-10-15 14:53:02,247] http-nio-8080-exec-7 com.example.demo.controller.adminController 402 DEBUG  - Fetching all products: Debug information for product fetch
+[2023-10-15 14:53:02,252] http-nio-8080-exec-7 com.example.demo.controller.adminController 408 INFO   - Successfully fetched all products
+[2023-10-15 14:53:02,432] http-nio-8080-exec-10 com.example.demo.controller.adminController 393 ERROR  - Fetching all products for display
+[2023-10-15 14:53:02,433] http-nio-8080-exec-10 com.example.demo.controller.adminController 396 WARN   - Fetching all products: This is a warning message
+[2023-10-15 14:53:02,433] http-nio-8080-exec-10 com.example.demo.controller.adminController 399 INFO   - Fetching all products: Product fetch started
+[2023-10-15 14:53:02,433] http-nio-8080-exec-10 com.example.demo.controller.adminController 402 DEBUG  - Fetching all products: Debug information for product fetch
+[2023-10-15 14:53:02,440] http-nio-8080-exec-10 com.example.demo.controller.adminController 408 INFO   - Successfully fetched all products
+[2023-10-15 14:53:07,038] http-nio-8080-exec-4 com.example.demo.controller.adminController 159 ERROR  - Fetching all admin data for display
+[2023-10-15 14:53:07,039] http-nio-8080-exec-4 com.example.demo.controller.adminController 162 WARN   - Fetching all admin data: This is a warning message
+[2023-10-15 14:53:07,039] http-nio-8080-exec-4 com.example.demo.controller.adminController 165 INFO   - Fetching all admin data: This is an info message
+[2023-10-15 14:53:07,039] http-nio-8080-exec-4 com.example.demo.controller.adminController 168 DEBUG  - Fetching all admin data: This is a debug message
+[2023-10-15 14:53:07,046] http-nio-8080-exec-4 com.example.demo.controller.adminController 174 INFO   - Successfully fetched all admin data
+[2023-10-15 14:53:07,166] http-nio-8080-exec-4 com.example.demo.controller.adminController 159 ERROR  - Fetching all admin data for display
+[2023-10-15 14:53:07,167] http-nio-8080-exec-4 com.example.demo.controller.adminController 162 WARN   - Fetching all admin data: This is a warning message
+[2023-10-15 14:53:07,167] http-nio-8080-exec-4 com.example.demo.controller.adminController 165 INFO   - Fetching all admin data: This is an info message
+[2023-10-15 14:53:07,167] http-nio-8080-exec-4 com.example.demo.controller.adminController 168 DEBUG  - Fetching all admin data: This is a debug message
+[2023-10-15 14:53:07,172] http-nio-8080-exec-4 com.example.demo.controller.adminController 174 INFO   - Successfully fetched all admin data
+[2023-10-15 14:53:08,460] http-nio-8080-exec-2 com.example.demo.controller.adminController 48 ERROR  - Fetching all customers for display
+[2023-10-15 14:53:08,460] http-nio-8080-exec-2 com.example.demo.controller.adminController 51 WARN   - Fetching all customers
+[2023-10-15 14:53:08,461] http-nio-8080-exec-2 com.example.demo.controller.adminController 54 INFO   - Fetching all customers
+[2023-10-15 14:53:08,461] http-nio-8080-exec-2 com.example.demo.controller.adminController 57 DEBUG  - Fetching all customers
+[2023-10-15 14:53:08,469] http-nio-8080-exec-2 com.example.demo.controller.adminController 66 INFO   - Successfully fetched all customers
+[2023-10-15 14:53:08,585] http-nio-8080-exec-4 com.example.demo.controller.adminController 48 ERROR  - Fetching all customers for display
+[2023-10-15 14:53:08,585] http-nio-8080-exec-4 com.example.demo.controller.adminController 51 WARN   - Fetching all customers
+[2023-10-15 14:53:08,585] http-nio-8080-exec-4 com.example.demo.controller.adminController 54 INFO   - Fetching all customers
+[2023-10-15 14:53:08,585] http-nio-8080-exec-4 com.example.demo.controller.adminController 57 DEBUG  - Fetching all customers
+[2023-10-15 14:53:08,590] http-nio-8080-exec-4 com.example.demo.controller.adminController 66 INFO   - Successfully fetched all customers
+[2023-10-15 14:53:10,027] http-nio-8080-exec-8 com.example.demo.controller.adminController 393 ERROR  - Fetching all products for display
+[2023-10-15 14:53:10,027] http-nio-8080-exec-8 com.example.demo.controller.adminController 396 WARN   - Fetching all products: This is a warning message
+[2023-10-15 14:53:10,027] http-nio-8080-exec-8 com.example.demo.controller.adminController 399 INFO   - Fetching all products: Product fetch started
+[2023-10-15 14:53:10,028] http-nio-8080-exec-8 com.example.demo.controller.adminController 402 DEBUG  - Fetching all products: Debug information for product fetch
+[2023-10-15 14:53:10,035] http-nio-8080-exec-8 com.example.demo.controller.adminController 408 INFO   - Successfully fetched all products
+[2023-10-15 14:53:10,159] http-nio-8080-exec-4 com.example.demo.controller.adminController 393 ERROR  - Fetching all products for display
+[2023-10-15 14:53:10,160] http-nio-8080-exec-4 com.example.demo.controller.adminController 396 WARN   - Fetching all products: This is a warning message
+[2023-10-15 14:53:10,160] http-nio-8080-exec-4 com.example.demo.controller.adminController 399 INFO   - Fetching all products: Product fetch started
+[2023-10-15 14:53:10,161] http-nio-8080-exec-4 com.example.demo.controller.adminController 402 DEBUG  - Fetching all products: Debug information for product fetch
+[2023-10-15 14:53:10,167] http-nio-8080-exec-4 com.example.demo.controller.adminController 408 INFO   - Successfully fetched all products
+[2023-10-15 14:53:11,042] http-nio-8080-exec-6 com.example.demo.controller.adminController 159 ERROR  - Fetching all admin data for display
+[2023-10-15 14:53:11,043] http-nio-8080-exec-6 com.example.demo.controller.adminController 162 WARN   - Fetching all admin data: This is a warning message
+[2023-10-15 14:53:11,043] http-nio-8080-exec-6 com.example.demo.controller.adminController 165 INFO   - Fetching all admin data: This is an info message
+[2023-10-15 14:53:11,043] http-nio-8080-exec-6 com.example.demo.controller.adminController 168 DEBUG  - Fetching all admin data: This is a debug message
+[2023-10-15 14:53:11,050] http-nio-8080-exec-6 com.example.demo.controller.adminController 174 INFO   - Successfully fetched all admin data
+[2023-10-15 14:53:11,176] http-nio-8080-exec-6 com.example.demo.controller.adminController 159 ERROR  - Fetching all admin data for display
+[2023-10-15 14:53:11,176] http-nio-8080-exec-6 com.example.demo.controller.adminController 162 WARN   - Fetching all admin data: This is a warning message
+[2023-10-15 14:53:11,177] http-nio-8080-exec-6 com.example.demo.controller.adminController 165 INFO   - Fetching all admin data: This is an info message
+[2023-10-15 14:53:11,177] http-nio-8080-exec-6 com.example.demo.controller.adminController 168 DEBUG  - Fetching all admin data: This is a debug message
+[2023-10-15 14:53:11,184] http-nio-8080-exec-6 com.example.demo.controller.adminController 174 INFO   - Successfully fetched all admin data
+[2023-10-15 14:53:11,914] http-nio-8080-exec-3 com.example.demo.controller.adminController 48 ERROR  - Fetching all customers for display
+[2023-10-15 14:53:11,915] http-nio-8080-exec-3 com.example.demo.controller.adminController 51 WARN   - Fetching all customers
+[2023-10-15 14:53:11,915] http-nio-8080-exec-3 com.example.demo.controller.adminController 54 INFO   - Fetching all customers
+[2023-10-15 14:53:11,915] http-nio-8080-exec-3 com.example.demo.controller.adminController 57 DEBUG  - Fetching all customers
+[2023-10-15 14:53:11,924] http-nio-8080-exec-3 com.example.demo.controller.adminController 66 INFO   - Successfully fetched all customers
+[2023-10-15 14:53:12,051] http-nio-8080-exec-6 com.example.demo.controller.adminController 48 ERROR  - Fetching all customers for display
+[2023-10-15 14:53:12,052] http-nio-8080-exec-6 com.example.demo.controller.adminController 51 WARN   - Fetching all customers
+[2023-10-15 14:53:12,052] http-nio-8080-exec-6 com.example.demo.controller.adminController 54 INFO   - Fetching all customers
+[2023-10-15 14:53:12,053] http-nio-8080-exec-6 com.example.demo.controller.adminController 57 DEBUG  - Fetching all customers
+[2023-10-15 14:53:12,058] http-nio-8080-exec-6 com.example.demo.controller.adminController 66 INFO   - Successfully fetched all customers
+[2023-10-15 14:53:22,942] http-nio-8080-exec-7 com.example.demo.controller.adminController 85 ERROR  - Fetching all customers for display
+[2023-10-15 14:53:22,943] http-nio-8080-exec-7 com.example.demo.controller.adminController 88 WARN   - Fetching all customers
+[2023-10-15 14:53:22,943] http-nio-8080-exec-7 com.example.demo.controller.adminController 91 INFO   - Fetching all customers
+[2023-10-15 14:53:22,944] http-nio-8080-exec-7 com.example.demo.controller.adminController 94 DEBUG  - Fetching all customers
+[2023-10-15 14:53:22,944] http-nio-8080-exec-7 com.example.demo.controller.adminController 103 INFO   - Successfully fetched all customers
+[2023-10-15 14:53:23,079] http-nio-8080-exec-3 com.example.demo.controller.adminController 85 ERROR  - Fetching all customers for display
+[2023-10-15 14:53:23,079] http-nio-8080-exec-3 com.example.demo.controller.adminController 88 WARN   - Fetching all customers
+[2023-10-15 14:53:23,079] http-nio-8080-exec-3 com.example.demo.controller.adminController 91 INFO   - Fetching all customers
+[2023-10-15 14:53:23,080] http-nio-8080-exec-3 com.example.demo.controller.adminController 94 DEBUG  - Fetching all customers
+[2023-10-15 14:53:23,080] http-nio-8080-exec-3 com.example.demo.controller.adminController 103 INFO   - Successfully fetched all customers
+[2023-10-15 14:53:27,174] http-nio-8080-exec-4 com.example.demo.controller.adminController 48 ERROR  - Fetching all customers for display
+[2023-10-15 14:53:27,174] http-nio-8080-exec-4 com.example.demo.controller.adminController 51 WARN   - Fetching all customers
+[2023-10-15 14:53:27,174] http-nio-8080-exec-4 com.example.demo.controller.adminController 54 INFO   - Fetching all customers
+[2023-10-15 14:53:27,174] http-nio-8080-exec-4 com.example.demo.controller.adminController 57 DEBUG  - Fetching all customers
+[2023-10-15 14:53:27,179] http-nio-8080-exec-4 com.example.demo.controller.adminController 66 INFO   - Successfully fetched all customers
+[2023-10-15 14:53:27,298] http-nio-8080-exec-3 com.example.demo.controller.adminController 48 ERROR  - Fetching all customers for display
+[2023-10-15 14:53:27,298] http-nio-8080-exec-3 com.example.demo.controller.adminController 51 WARN   - Fetching all customers
+[2023-10-15 14:53:27,298] http-nio-8080-exec-3 com.example.demo.controller.adminController 54 INFO   - Fetching all customers
+[2023-10-15 14:53:27,299] http-nio-8080-exec-3 com.example.demo.controller.adminController 57 DEBUG  - Fetching all customers
+[2023-10-15 14:53:27,304] http-nio-8080-exec-3 com.example.demo.controller.adminController 66 INFO   - Successfully fetched all customers
+[2023-10-15 15:00:16,684] http-nio-8080-exec-5 com.example.demo.controller.adminController 159 ERROR  - Fetching all admin data for display
+[2023-10-15 15:00:16,685] http-nio-8080-exec-5 com.example.demo.controller.adminController 162 WARN   - Fetching all admin data: This is a warning message
+[2023-10-15 15:00:16,688] http-nio-8080-exec-5 com.example.demo.controller.adminController 165 INFO   - Fetching all admin data: This is an info message
+[2023-10-15 15:00:16,688] http-nio-8080-exec-5 com.example.demo.controller.adminController 168 DEBUG  - Fetching all admin data: This is a debug message
+[2023-10-15 15:00:16,695] http-nio-8080-exec-5 com.example.demo.controller.adminController 174 INFO   - Successfully fetched all admin data
+[2023-10-15 15:00:17,176] http-nio-8080-exec-1 com.example.demo.controller.adminController 159 ERROR  - Fetching all admin data for display
+[2023-10-15 15:00:17,177] http-nio-8080-exec-1 com.example.demo.controller.adminController 162 WARN   - Fetching all admin data: This is a warning message
+[2023-10-15 15:00:17,177] http-nio-8080-exec-1 com.example.demo.controller.adminController 165 INFO   - Fetching all admin data: This is an info message
+[2023-10-15 15:00:17,177] http-nio-8080-exec-1 com.example.demo.controller.adminController 168 DEBUG  - Fetching all admin data: This is a debug message
+[2023-10-15 15:00:17,182] http-nio-8080-exec-1 com.example.demo.controller.adminController 174 INFO   - Successfully fetched all admin data
+[2023-10-15 15:00:17,874] http-nio-8080-exec-8 com.example.demo.controller.adminController 393 ERROR  - Fetching all products for display
+[2023-10-15 15:00:17,874] http-nio-8080-exec-8 com.example.demo.controller.adminController 396 WARN   - Fetching all products: This is a warning message
+[2023-10-15 15:00:17,875] http-nio-8080-exec-8 com.example.demo.controller.adminController 399 INFO   - Fetching all products: Product fetch started
+[2023-10-15 15:00:17,875] http-nio-8080-exec-8 com.example.demo.controller.adminController 402 DEBUG  - Fetching all products: Debug information for product fetch
+[2023-10-15 15:00:17,881] http-nio-8080-exec-8 com.example.demo.controller.adminController 408 INFO   - Successfully fetched all products
+[2023-10-15 15:00:18,051] http-nio-8080-exec-8 com.example.demo.controller.adminController 393 ERROR  - Fetching all products for display
+[2023-10-15 15:00:18,051] http-nio-8080-exec-8 com.example.demo.controller.adminController 396 WARN   - Fetching all products: This is a warning message
+[2023-10-15 15:00:18,051] http-nio-8080-exec-8 com.example.demo.controller.adminController 399 INFO   - Fetching all products: Product fetch started
+[2023-10-15 15:00:18,051] http-nio-8080-exec-8 com.example.demo.controller.adminController 402 DEBUG  - Fetching all products: Debug information for product fetch
+[2023-10-15 15:00:18,057] http-nio-8080-exec-8 com.example.demo.controller.adminController 408 INFO   - Successfully fetched all products
+[2023-10-15 22:38:24,889] http-nio-8080-exec-10 com.example.demo.controller.adminController 393 ERROR  - Fetching all products for display
+[2023-10-15 22:38:24,891] http-nio-8080-exec-10 com.example.demo.controller.adminController 396 WARN   - Fetching all products: This is a warning message
+[2023-10-15 22:38:24,891] http-nio-8080-exec-10 com.example.demo.controller.adminController 399 INFO   - Fetching all products: Product fetch started
+[2023-10-15 22:38:24,891] http-nio-8080-exec-10 com.example.demo.controller.adminController 402 DEBUG  - Fetching all products: Debug information for product fetch
+[2023-10-15 22:38:24,901] http-nio-8080-exec-10 com.example.demo.controller.adminController 408 INFO   - Successfully fetched all products
+[2023-10-15 22:38:25,062] http-nio-8080-exec-5 com.example.demo.controller.adminController 393 ERROR  - Fetching all products for display
+[2023-10-15 22:38:25,063] http-nio-8080-exec-5 com.example.demo.controller.adminController 396 WARN   - Fetching all products: This is a warning message
+[2023-10-15 22:38:25,063] http-nio-8080-exec-5 com.example.demo.controller.adminController 399 INFO   - Fetching all products: Product fetch started
+[2023-10-15 22:38:25,063] http-nio-8080-exec-5 com.example.demo.controller.adminController 402 DEBUG  - Fetching all products: Debug information for product fetch
+[2023-10-15 22:38:25,069] http-nio-8080-exec-5 com.example.demo.controller.adminController 408 INFO   - Successfully fetched all products
+[2023-10-15 22:38:28,863] http-nio-8080-exec-4 com.example.demo.controller.adminController 48 ERROR  - Fetching all customers for display
+[2023-10-15 22:38:28,863] http-nio-8080-exec-4 com.example.demo.controller.adminController 51 WARN   - Fetching all customers
+[2023-10-15 22:38:28,863] http-nio-8080-exec-4 com.example.demo.controller.adminController 54 INFO   - Fetching all customers
+[2023-10-15 22:38:28,863] http-nio-8080-exec-4 com.example.demo.controller.adminController 57 DEBUG  - Fetching all customers
+[2023-10-15 22:38:28,872] http-nio-8080-exec-4 com.example.demo.controller.adminController 66 INFO   - Successfully fetched all customers
+[2023-10-15 22:38:28,987] http-nio-8080-exec-2 com.example.demo.controller.adminController 48 ERROR  - Fetching all customers for display
+[2023-10-15 22:38:28,988] http-nio-8080-exec-2 com.example.demo.controller.adminController 51 WARN   - Fetching all customers
+[2023-10-15 22:38:28,989] http-nio-8080-exec-2 com.example.demo.controller.adminController 54 INFO   - Fetching all customers
+[2023-10-15 22:38:28,989] http-nio-8080-exec-2 com.example.demo.controller.adminController 57 DEBUG  - Fetching all customers
+[2023-10-15 22:38:28,995] http-nio-8080-exec-2 com.example.demo.controller.adminController 66 INFO   - Successfully fetched all customers
+[2023-10-15 22:38:30,006] http-nio-8080-exec-4 com.example.demo.controller.adminController 159 ERROR  - Fetching all admin data for display
+[2023-10-15 22:38:30,006] http-nio-8080-exec-4 com.example.demo.controller.adminController 162 WARN   - Fetching all admin data: This is a warning message
+[2023-10-15 22:38:30,007] http-nio-8080-exec-4 com.example.demo.controller.adminController 165 INFO   - Fetching all admin data: This is an info message
+[2023-10-15 22:38:30,008] http-nio-8080-exec-4 com.example.demo.controller.adminController 168 DEBUG  - Fetching all admin data: This is a debug message
+[2023-10-15 22:38:30,012] http-nio-8080-exec-4 com.example.demo.controller.adminController 174 INFO   - Successfully fetched all admin data
+[2023-10-15 22:38:30,123] http-nio-8080-exec-2 com.example.demo.controller.adminController 159 ERROR  - Fetching all admin data for display
+[2023-10-15 22:38:30,124] http-nio-8080-exec-2 com.example.demo.controller.adminController 162 WARN   - Fetching all admin data: This is a warning message
+[2023-10-15 22:38:30,124] http-nio-8080-exec-2 com.example.demo.controller.adminController 165 INFO   - Fetching all admin data: This is an info message
+[2023-10-15 22:38:30,124] http-nio-8080-exec-2 com.example.demo.controller.adminController 168 DEBUG  - Fetching all admin data: This is a debug message
+[2023-10-15 22:38:30,130] http-nio-8080-exec-2 com.example.demo.controller.adminController 174 INFO   - Successfully fetched all admin data
+[2023-10-15 22:38:33,734] http-nio-8080-exec-6 com.example.demo.controller.adminController 393 ERROR  - Fetching all products for display
+[2023-10-15 22:38:33,735] http-nio-8080-exec-6 com.example.demo.controller.adminController 396 WARN   - Fetching all products: This is a warning message
+[2023-10-15 22:38:33,735] http-nio-8080-exec-6 com.example.demo.controller.adminController 399 INFO   - Fetching all products: Product fetch started
+[2023-10-15 22:38:33,735] http-nio-8080-exec-6 com.example.demo.controller.adminController 402 DEBUG  - Fetching all products: Debug information for product fetch
+[2023-10-15 22:38:33,742] http-nio-8080-exec-6 com.example.demo.controller.adminController 408 INFO   - Successfully fetched all products
+[2023-10-15 22:38:33,837] http-nio-8080-exec-4 com.example.demo.controller.adminController 393 ERROR  - Fetching all products for display
+[2023-10-15 22:38:33,837] http-nio-8080-exec-4 com.example.demo.controller.adminController 396 WARN   - Fetching all products: This is a warning message
+[2023-10-15 22:38:33,837] http-nio-8080-exec-4 com.example.demo.controller.adminController 399 INFO   - Fetching all products: Product fetch started
+[2023-10-15 22:38:33,838] http-nio-8080-exec-4 com.example.demo.controller.adminController 402 DEBUG  - Fetching all products: Debug information for product fetch
+[2023-10-15 22:38:33,845] http-nio-8080-exec-4 com.example.demo.controller.adminController 408 INFO   - Successfully fetched all products
+[2023-10-15 22:38:37,255] http-nio-8080-exec-1 com.example.demo.controller.adminController 48 ERROR  - Fetching all customers for display
+[2023-10-15 22:38:37,255] http-nio-8080-exec-1 com.example.demo.controller.adminController 51 WARN   - Fetching all customers
+[2023-10-15 22:38:37,255] http-nio-8080-exec-1 com.example.demo.controller.adminController 54 INFO   - Fetching all customers
+[2023-10-15 22:38:37,255] http-nio-8080-exec-1 com.example.demo.controller.adminController 57 DEBUG  - Fetching all customers
+[2023-10-15 22:38:37,262] http-nio-8080-exec-1 com.example.demo.controller.adminController 66 INFO   - Successfully fetched all customers
+[2023-10-15 22:38:37,385] http-nio-8080-exec-1 com.example.demo.controller.adminController 48 ERROR  - Fetching all customers for display
+[2023-10-15 22:38:37,385] http-nio-8080-exec-1 com.example.demo.controller.adminController 51 WARN   - Fetching all customers
+[2023-10-15 22:38:37,386] http-nio-8080-exec-1 com.example.demo.controller.adminController 54 INFO   - Fetching all customers
+[2023-10-15 22:38:37,386] http-nio-8080-exec-1 com.example.demo.controller.adminController 57 DEBUG  - Fetching all customers
+[2023-10-15 22:38:37,390] http-nio-8080-exec-1 com.example.demo.controller.adminController 66 INFO   - Successfully fetched all customers
+[2023-10-15 22:38:37,966] http-nio-8080-exec-6 com.example.demo.controller.adminController 159 ERROR  - Fetching all admin data for display
+[2023-10-15 22:38:37,966] http-nio-8080-exec-6 com.example.demo.controller.adminController 162 WARN   - Fetching all admin data: This is a warning message
+[2023-10-15 22:38:37,966] http-nio-8080-exec-6 com.example.demo.controller.adminController 165 INFO   - Fetching all admin data: This is an info message
+[2023-10-15 22:38:37,966] http-nio-8080-exec-6 com.example.demo.controller.adminController 168 DEBUG  - Fetching all admin data: This is a debug message
+[2023-10-15 22:38:37,974] http-nio-8080-exec-6 com.example.demo.controller.adminController 174 INFO   - Successfully fetched all admin data
+[2023-10-15 22:38:38,077] http-nio-8080-exec-9 com.example.demo.controller.adminController 159 ERROR  - Fetching all admin data for display
+[2023-10-15 22:38:38,078] http-nio-8080-exec-9 com.example.demo.controller.adminController 162 WARN   - Fetching all admin data: This is a warning message
+[2023-10-15 22:38:38,078] http-nio-8080-exec-9 com.example.demo.controller.adminController 165 INFO   - Fetching all admin data: This is an info message
+[2023-10-15 22:38:38,079] http-nio-8080-exec-9 com.example.demo.controller.adminController 168 DEBUG  - Fetching all admin data: This is a debug message
+[2023-10-15 22:38:38,085] http-nio-8080-exec-9 com.example.demo.controller.adminController 174 INFO   - Successfully fetched all admin data
+[2023-10-15 22:38:49,557] http-nio-8080-exec-3 com.example.demo.controller.adminController 159 ERROR  - Fetching all admin data for display
+[2023-10-15 22:38:49,557] http-nio-8080-exec-3 com.example.demo.controller.adminController 162 WARN   - Fetching all admin data: This is a warning message
+[2023-10-15 22:38:49,558] http-nio-8080-exec-3 com.example.demo.controller.adminController 165 INFO   - Fetching all admin data: This is an info message
+[2023-10-15 22:38:49,558] http-nio-8080-exec-3 com.example.demo.controller.adminController 168 DEBUG  - Fetching all admin data: This is a debug message
+[2023-10-15 22:38:49,568] http-nio-8080-exec-3 com.example.demo.controller.adminController 174 INFO   - Successfully fetched all admin data
+[2023-10-15 22:38:49,877] http-nio-8080-exec-5 com.example.demo.controller.adminController 159 ERROR  - Fetching all admin data for display
+[2023-10-15 22:38:49,877] http-nio-8080-exec-5 com.example.demo.controller.adminController 162 WARN   - Fetching all admin data: This is a warning message
+[2023-10-15 22:38:49,877] http-nio-8080-exec-5 com.example.demo.controller.adminController 165 INFO   - Fetching all admin data: This is an info message
+[2023-10-15 22:38:49,877] http-nio-8080-exec-5 com.example.demo.controller.adminController 168 DEBUG  - Fetching all admin data: This is a debug message
+[2023-10-15 22:38:49,887] http-nio-8080-exec-5 com.example.demo.controller.adminController 174 INFO   - Successfully fetched all admin data

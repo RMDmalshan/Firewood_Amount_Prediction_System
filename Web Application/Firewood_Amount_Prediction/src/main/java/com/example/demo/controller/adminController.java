@@ -378,14 +378,7 @@ public class adminController {
 	
 	
 	
-	
-	
-	
-	
-	
-	
-	
-	
+
 	
 	//Products CRUD
 	
