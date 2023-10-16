@@ -33,13 +33,6 @@ def index():
         month_list = ['April', 'August', 'December', 'February', 'January', 'July', 'June', 'March', 'May', 'November', 'October', 'September']
         wood_list = ['Cashew','Halmilla','Mahogany','Mango','Mara','Other','Teak']
         
-
-        # for item in company_list:
-        #     if item == company:
-        #         feature_list.append(1)
-        #     else:
-        #         feature_list.append(0)
-
         def traverse_list(lst, value):
             for item in lst:
                 if item == value:
@@ -55,12 +48,7 @@ def index():
         pred_value = prediction(feature_list)
         print(pred_value)
         
-        
-
-        
-
     return render_template('prediction.html',pred_value=pred_value)
-
 
 if __name__ == '__main__':
     app.run(debug=True)
