@@ -599,8 +599,10 @@ public class adminController {
 	        }
 	}
 	
-	
-	
+	@GetMapping("/predict")
+public String predict() {
+		return "Prediction";
+	}
 	
 	
 }
